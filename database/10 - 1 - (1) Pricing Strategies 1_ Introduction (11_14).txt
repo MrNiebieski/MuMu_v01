@@ -1,0 +1,387 @@
+So today we're going to talk about pricing
+devalue as part of our go-to-market
+strategy.
+So let me just give you a little bit of an
+overview of where we're going to go.
+I'm going to start out by giving you some
+pricing puzzles, and some cute things that
+go on pricing.
+Then we'll talk about a framework for how
+to understand, how to set a price.
+And then we'll spend a little bit of time
+on customer
+price sensitivity and how to measure it
+and how to understand it.
+That's going to be our road map for these
+next few sessions.
+Let's begin with some motivations and some
+puzzles.
+And before I say this, pricing is probably
+one of the key things to
+really think about in marketing because
+often
+times prices are made really really
+arbitrarily.
+So I see that competitor one is charging
+40 US dollars competitor two is
+charging 20 and so I just choose 30, no
+really rhyme or reason to it.
+Or people engage in cost plus pricing,
+many things that they shouldn't be doing,
+and what we want to do in this session is
+to think about the right way to set a
+price.
+So let's begin.
+Here's a little bit of motivation for you
+from a study that was done by the McKinsey
+Company that looked at various things that
+firms could
+do, over 2,000 companies, to improve their
+operating profits.
+They could improve their fixed cost
+position, they
+could improve their variable costs and so
+on.
+But the thing that they did that had the
+most impact, if they were able
+to improve their final realize price by
+only 1%, they
+were able to increase their profit
+operating profit by about 11%.
+So price is such a critical level, and
+it's one that we
+often get wrong, so let's keep that in
+mind as we go through.
+Here are some puzzles just to give a sense
+of
+all of the interesting things that go on
+in pricing.
+The first one is for a company called
+Trader Joe's.
+It's a company that sells a lot of private
+label product.
+I believe it's owned by some German
+brothers, operates in the
+United States all over the country,
+there's one here in Philadelphia.
+Now as Barbara told you in branding,
+there are both national brands and private
+labels.
+Most of what Trader Joe's sells are
+private label products.
+So one of the products that I like there
+is they sell goza a
+dumplings that I can buy and I can steam
+and I can eat them.
+Now let's imagine that those
+dumplings cost me about $3.99.
+Now that's all well and good because I
+like the dumplings, but somehow I start
+scratching
+my head and I say, gee you know, is $3.99
+really a good price for those dumplings?
+And I face a problem.
+The problem I face is I can't find
+that product anywhere else, because it's a
+private label.
+So I don't really know is it a good deal
+or a bad deal.
+If I'm paying $2 for a can of coke, I know
+that's a bad deal, and I know the store's
+ripping me off.
+So Trader Joe's recognizes that I have
+this inference problem, so what do they
+do?
+They take a very very common product like
+bottled water that's available
+everywhere and then price it at an
+extremely low price all the time.
+So when I come into the store and I see
+that the bottled water, a product that I
+can compare that's
+available everywhere, I see that that's
+priced very low, that
+gives me some confidence that the products
+I can't compare are
+also fairly priced.
+So this example is showing how sometimes
+as companies, we want
+to signal through one kind of product,
+that we're a good seller.
+That we offer good values.
+That's an example of using a product to
+signal the value for the entire product
+line.
+A similar example, if we think about a
+company like Wal-Mart.
+Why is it that you might find some Tide
+detergent there for $4.73 or another
+product for $2.81,
+these weird kind of a endings?
+So in the US at least, most prices end in
+either a nine or a five,
+and the idea that Walmart here is ending
+their prices in fours and threes and ones
+and sevens, is they're trying to send you
+a message that they've squeezed out every
+possible
+cent that they can to deliver the best
+possible value to you as an in consumer.
+So that's another example of using the
+product price
+to send a signal.
+The final one I'll share is a very
+interesting study done by a friend of
+mine from New Zealand who teachers at the
+Sloan management school up there at MIT.
+And my friend Duncan did an experiment
+where he sent
+out shoe catalogs to people all over the
+United States.
+Half the people received a catalog and a
+picture
+of a pair of shoes and the price was $44.
+The other half of the people, this is
+thousands of peopl,e received
+an identical catalog except the price of
+the shoes was $49.
+Now economics 101 tells us that as the
+price goes up
+demand should go down right, but Duncan
+found exactly the opposite.
+More shoes were sold at $49 then at $44.
+And why is that?
+Because when you see $44 the way you
+encode it psychologically is,
+gee, that's kind of a weird price, I don't
+normally see 44.
+Thats like 10% more than 40.
+But when you see 49, you feel like that's
+a discount from 50.
+And so what I'm trying to indicate through
+these examples is the price
+is more than just a number that indicates
+what you have to pay.
+It sends all kinds of other signals, and
+that's
+going to be one of our themes as we go
+through.
+So how do we set prices and what's the
+right framework?
+There are four inputs to pricing.
+First of all we need to think about the
+marginal
+cost of the product I'm going to call that
+the floor.
+Obviously we don't want a price below the
+floor or at least not for too long.
+Then we need to think about the ceiling
+which is the customer willingness to pay.
+So number one is the floor, number two
+is the ceiling, the customer willingness
+to pay.
+But you can't always charge people their
+absolute maximum willingness to pay.
+Why is that?
+Because of competition.
+So competition is going to be the third
+factor that will drop
+the possible ceiling.
+If my customer is willing to pay $10 but
+he can get that product from
+a competitor for six, then that's going to
+drop my price from ten down to six.
+And then number four is the amount by
+which prices have to be raised from
+marginal cost to give some money to
+distributors
+or re-sellers to motivate them to sell it.
+So those are the four key inputs to
+pricing
+that we're going to go through by way of
+example.
+I'm also going to show you a couple
+of examples of something called economic
+value to the customer.
+This is a very, very important concept.
+And first example, well the only one I'm
+going to show is something that
+might be useful for you, those of you who
+like to eat chicken wings.
+There's a product called the wing dipper.
+And the wing dipper is a place where you
+can put the
+dip within what you want to, to dip your
+chicken, chicken wings.
+I guess it turns out when people eat
+chicken wings, I don't eat it a lot
+myself.
+I guess they spray the dip
+around, or they make a mess.
+And so therefore the restaurants are
+losing a lot of money whereas if
+they had these wing dippers, the wing
+dipper controls the amount and based on
+the size of your restaurant and the amount
+of wings that get eaten
+you can calculate as a restaurant what the
+economic value of this product is.
+So many times in your communication you're
+thinking about the economic value to
+the customer and trying to say that in a
+persuasive or informative way.
+Okay, so now let's think about this
+pricing framework
+of the cost the customer willingness to
+pay the amount
+that collaborates sorry competitors will
+bring the price down
+and collaborators will bring the price up
+through some examples.
+Let's relate the five C's of marketing:
+customers,
+company, collaborators, competitors, and
+context, to the pricing decision.
+So first of all from a company point of
+view
+when your setting a price you might need
+to think
+about financial considerations what's my
+required internal rate of return.
+You certainly need to think about
+consistency in the product line
+so sometimes you might have a good better
+and best product.
+So the price that I'm going to charge for
+the Toyota Camry is somehow
+going to be related to the price that I'm
+charging for the Toyota Corolla.
+So you need to think about spacing out the
+prices in a way that's consistent.
+And then thirdly you need to think about
+your own existing image so it may be
+very very difficult for Walmart who has a
+low price image to sell really really
+expensive stuff.
+Similarly it may be very very difficult
+for Sak's 5th Avenue to
+sell things very very cheaply because
+that's also inconsistent with their
+overall image.
+So those are three things that are very
+important
+to think about from a company point of
+view.
+From a competitor point
+of view there's a whole raft of things,
+but here's the three most important.
+The first thing you need to think about is
+that
+when you set your price, how will your
+competitor respond?
+Will your competitor respond extremely
+aggressively and take
+whatever your price is and cut below it?
+Is the competitor going to do things that
+are rational,
+does the competitor have a deep pockets
+and so on.
+So the first thing is how aggressive is
+this competitor.
+The second thing you need to think about
+is when
+you do something in the market with your
+price how is that competitor going to
+respond?
+Are they going to respond by improving
+their advertising,
+their product or their distribution, the
+other 3 P's,
+or are they going to respond on the basis
+of
+price that's the second thing you need to
+think about.
+And then thirdly you need to think
+about your position and the competitors
+position.
+So if you're the market leader, in some
+sense you
+have a responsibility to try and keep your
+prices high.
+If you're a follower you might have a
+different kind of strategy.
+So those are three important things with
+respect to competitors
+that dictate what you want to do with your
+pricing.
+When it comes to collaborators,
+collaborators or distributors,
+they care a lot about margin, but they
+also
+care about their return on assets, and
+we'll
+be talking about that a little bit later
+on.
+So are you pricing in such a way that
+allows the collaborator
+or distributor who's selling your product
+to turn the product frequently enough?
+And finally we come to the customer.
+The customer issues are probably the most
+important.
+So this is where I'm going to spend the
+most
+time, and the key idea is customer price
+sensitivity.
+In terms of economics, this is sometimes
+referred to as a price elasticity.
+You might remember this from your high
+school or college education days.
+In economics, price elasticity just means
+the following: if I
+raise the price by 1% by how much does
+demand drop?
+So if I raise the price of my product by
+one percent and demand drops five
+percent that means that the product is
+highly
+elastic, there's a lot of stretch to the
+price.
+If I raise the price one percent and
+demand only drops 0.2 of
+a percent, that means that the product is
+very inelastic, very very little stretch.
+If I have an inelastic product, I might be
+able to raise price.
+If I have an elastic product I might want
+to drop price.
+So we're
+going to get into how as marketers we
+actually
+measure that beyond the economic concept
+of price elasticity.
+A second thing we're going to talk about
+are psychological issues.
+Now we can spend weeks on this.
+We won't spend weeks on this because we
+don't have all of that time.
+But I want to introduce you to the most
+important psychological phenomena.
+The first thing is the ending of the
+price.
+Whether it's an odd ending or an even
+ending.
+I'll also talk a little bit about
+something
+called mental accounting.
+How we think about price in our minds.
+I'll give you a short summary of a very
+famous psychological principal called
+Prospect Theory or psychological theory.
+Actually a noble prize winning theory that
+has some very very interesting
+implications for pricing.
+And then finally another psychological
+principal called the endowment effect.
+[MUSIC]
+

@@ -1,0 +1,451 @@
+[MUSIC]
+>> So now it's time to ask the
+question.
+What metric the firms use to gauge and
+guide their development activities?
+There's actually a lot of different
+metrics that they use.
+Again, the basic idea is, how
+well-developed is
+this customer for the firm, or, look at it
+the other way around, how well developed
+is this
+firm in the customer's mind, or the
+customer's wallet?
+So a very common metric that's used here
+is, share of wallet.
+Of all of a customer's needs for a
+particular product or service, for the
+category as a whole, how many of those
+needs are met by this firm.
+So as I said, there's a number of other
+metrics.
+What some firms look at is the number of
+different products and services.
+That the customer has with them.
+As a very specific example, Wells Fargo, a
+big retail bank here in the U.S., they're
+obsessed
+over number of services per customer.
+Okay, the CEO, you could ask him at any
+given moment what's the average number of
+services per customer.
+How does that vary over time?
+How does it vary across customer groups?
+He understands that customer development
+is really critical there.
+So Bordon looked at Share of Wallet,
+again they're very closely related to each
+other.
+So, so question is what does Share of
+Wallet tell us.
+It's a decent metric, I think it's a good
+metric to look at
+but, but I want to understand how it, how
+it really fits in.
+See I want to understand the, the, the
+interrelationship.
+Between share of wallet, how well
+developed
+we are with the customer and over
+all size of wallet or overall CLV,
+how much overall value does this customer
+have.
+So, there has been a lot of research
+that's looked at
+the inter play of size of wallet and share
+of wallet.
+You can see
+a screen shot here, about some work done
+by some colleagues
+at Duke University, who looked very
+carefully at this very issue.
+What's the inter-relationship between size
+and share of customer wallet?
+And, and the results they got are, are
+very interesting.
+It's a, it's a very well done study and,
+and I absolutely believe the results.
+So let's jump in and look at the results.
+As we can see this chart over here, and
+it shows you the relationship between
+share and size of wallet.
+So, so going along the bottom of the
+picture, you could
+see Share of Wallet broke up, broken up
+into five groups.
+People to the left with a really small
+Share of Wallet.
+People to the right with a high Share of
+Wallet.
+And up and down in the picture is the
+total wallet size.
+Again, the thing about that is a proxy for
+CLV, the overall worth of this customer,
+the overall capability to spend in this
+entire product category.
+And if you look at this picture, and if I
+ask you what's
+interesting about it, you'll see a lot of
+big circles to the left.
+and, and what else is there?
+Well there is that big circle to the lower
+right and if
+you think about that for a moment, its not
+really very interesting.
+What that's telling us is for customers
+who have a very
+small wallet size, in other words for
+customer
+who don't have a lot of money to spend,
+they don't sorry have a lot of CLV, they
+tend to put all their eggs in one basket.
+Think about it this way.
+If you only have a dollar to spend, you're
+going to spend it all in one place.
+And so it's not surprising that the
+customers with very
+small value are going to have very very
+high share of wallet.
+They're going to be very well developed,
+but they're not necessarily
+very good customers, in terms of CLV.
+So you know what, let's eliminate that
+bottom row not to say that,
+that we don't care about those customers,
+but I do want to make
+a point over here, if we get rid of those
+really low value
+customers, the ones with the really small
+wallets, what else do we see?
+Now, if I ask you to describe this picture
+over here, in terms of
+the relationship between share of wallet
+and size of wallet, what do we see?
+Good answer, pretty much nothing.
+There seems to be no systematic
+relationship
+between share of wallet and size of
+wallet.
+So as my colleague said in this paper over
+here,
+share of wallet is largely independent of
+size of wallet.
+In other words, a very well-developed
+customer isn't
+necessarily more valuable than a less
+developed customer.
+This is a really important point.
+It suggests
+that, while we want to develop our
+customers, at the margin
+we always want our customers to be more
+valuable to us.
+it, it doesn't necessarily have the, this,
+this
+real strong causal of relationship with
+overall CLV.
+So let look at another quote from this
+paper that I think does a very nice job
+of summarizing the good news and the bad
+news about cross selling or other customer
+development activities.
+So here is the good news, if customers
+have,
+we have a really high share with them,
+they
+buy a lot of stuff from us in one
+category, they're likely to buy from us in
+other categories.
+If we can sell them a checking account
+then there's a pretty good chance
+we can get them to get a, a savings
+account from us as well.
+That's the good news.
+The bad news is, it suggests that some
+customers
+just inherently love us, this is the
+celebration of heterogeneity.
+And they're going to buy pretty much
+everything we have
+to offer.
+And there's some customers who eh, take it
+or leave it.
+They might have a particular service from
+us.
+We're lucky that we have any of
+their business, but they're not
+necessarily going
+to become better customers all of a
+sudden, if we push another service on
+them.
+This is the big issue with customer
+development,
+we want to do it all the time.
+We're always going to be saying, do you
+want
+fries with that, do you want to super-size
+that?
+We're always going to be looking for
+opportunities to
+create and exctract a little more value
+from our customers.
+But too many companies believe that these
+development activities will
+systematically, fundamentally change the
+overall value of our customers.
+That tends to be untrue.
+Not saying it's always untrue, but for the
+most part development activities are good.
+They're important
+to do, but they're not necessarily going
+to fundamentally change the nature of the
+customers.
+So we want to do development activities,
+but the way I like
+to think about them is that they're more
+like icing on the cake.
+It's going to let us create and extract a
+little bit more value than we would have
+had otherwise.
+But it, but it doesn't necessarily change
+the customer.
+Now a lot of companies would disagree with
+me on that.
+A lot of companies would say, you know
+what, we put this offer in front of the
+customer and not only did he take it but
+he bought lots of other things as well.
+Here's my point.
+The celebration of heterogeneity suggests
+that this customer was actually
+pretty valuable all along or had high
+potential value all along.
+We, as a company, were just unable to see
+it and to unlock it.
+And so, we're going to do
+these development activities not so much
+to fundamentally change the customer.
+But to find out what kind of value they
+have, already had locked in
+them, and to help us unlock it, and, and,
+and really fully enjoy it.
+So that's why we have to do
+development activities, but it doesn't
+necessarily change customers.
+And so you can see where I'm going with
+this, and in
+fact, if I, If I can now combine together
+all three tactics,
+acquisition, retention, development and if
+I go back and ask my question again,
+if we had that one extra dollar to spend,
+where would you spend it?
+Acquisition, retention or development?
+And as I said, most people, most
+companies, down
+play acquisition and really focus on
+retention and development.
+We can see where I'm going with it.
+Now, no way
+do I want to minimize the importance of
+retention or development.
+But at the margin that we've that extra
+dollar to spend.
+I think we really want to spend it on
+acquisition.
+And again, that reflects customer-centric
+thinking which is
+very, very different than the traditional
+product-centric thinking.
+So that's why thinking in a
+customer-centric manner and
+celebrating, understanding heterogeneity
+can
+lead to dramatically different
+conclusions.
+Now, I want to be careful about making
+that statement.
+I don't want to say that its always true.
+If you are in a market whether it's,
+it's intense competition and, and you've
+basically saturated the
+marketing, every customer, every potential
+customer has already
+been acquired and sometimes that worked
+with multiple firms.
+Then, acquisition might not make more
+sense.
+Because then, the only customers who are
+left out
+there, are, are probably customers that
+aren't very valuable.
+And other companies were willing to let
+them go.
+So there's lots and lots of exceptions to
+the general advice that I'm offering.
+Again, if you're in a very saturated
+market, hanging on to your
+really valuable customers is going to make
+more sense than acquiring new ones.
+But in general, for most companies, for
+most markets, when there's a
+lot of, of customers still out there, who
+haven't been fully evalued
+by, by, by different companies, at the
+margin, I think acquisition makes more
+sense.
+But more importantly, than telling you
+exactly how to spend the money,
+I just wanted you to be thinking about
+some of these marginal decisions.
+And this clear understanding of the
+trade off between acquisition, retention,
+development.
+I also want to shed light on the
+conventional
+wisdom that we associate with some of
+these trade offs.
+So, for instance, want,
+want to show you a piece of conventional
+wisdom over here, many of you have read
+this, many of you have said this, many
+of you, perhaps, have managed your
+business around this.
+the basic idea that it costs so much more
+money to acquire a new customer than to
+retain one.
+So we have to work really hard to keep the
+ones that we have.
+Again, I'm sure that many of you have
+heard
+that advice, and even if you haven't, it
+makes
+a lot of sense, right?
+Well, let's think about it.
+I don't want to suggest that, that
+conventional wisdom is untrue.
+Okay, you know what, it probably is true.
+It does cost more to acquire a new
+customer, especially a good
+new customer, than to retain existing
+customers, but what's my take on it?
+Let's go back to my coverage of
+acquisition.
+Let's not
+focus on costs.
+Let's not worry about costs.
+Let's worry about value.
+And we're spending too much time, more
+importantly we're spending too
+much money, retaining customers who aren't
+really that valuable to us.
+Maybe we'd better off reaching a little
+bit
+higher, spending a little bit of money to
+go
+out there and find a customer or a
+group of customers who might actually be
+more valuable
+than some of those, eh, customers, we're
+spending
+so much time, tying, trying to retain and
+develop.
+And so again, the conventional wisdom
+might be right.
+But when you take this forward looking
+value oriented perspective.
+If we're focusing more on CLV, as opposed
+to CPA, then this kind of conventional
+wisdom won't really impact you that much.
+Don't be so cheap.
+Don't be so lazy.
+Go out there and figure out where
+the valuable customers, valuable potential
+customers reside.
+And do what it takes to get them on board
+and then let nature takes its course.
+Yes, you want to spend time retaining
+them.
+Yes, you want to ask them if they want
+fries with that.
+Because they're better customers, they're
+going to naturally stick around longer,
+they're going to naturally buy more
+products and services from you.
+And you'll
+see the gains in the long run.
+They'll be worth the investment.
+So that's my overall take on some
+of the tradeoffs between acquisition,
+retention, development.
+Let me just summarize it for you and then
+we'll step back
+and, and, and take a last look at, at all
+of customer centricity.
+So, I, I keep saying it all along and I
+hope that you can appreciate how customer
+centricity is a celebration
+of heterogeneity.
+And by really understanding, by, by
+measuring and, and fully appreciating
+heterogeneity, it brings new light on to
+acquisition, retention, and development.
+And, at the margin, earliest in
+many situations, the greatest
+opportunities to improve
+customer profitability, it through what,
+through
+what I like to call, smart acquisition.
+Let's not just go out there and bring in a
+bunch of customers as cheaply as possible.
+But if we can be smart, if we can look
+at our customers, fully utilize all the
+data that we have
+on them and understand how, when and where
+we acquired them,
+we can go out there and get some really
+good customers.
+Now retention and development are
+important.
+Let me just say one more time that so much
+of our
+attention spending is going towards
+flighty
+customers, who are likely to leave anyway.
+And it's going to cost a lot of money
+to keep them coming.
+We're going to have to keep spending over
+and over and over again.
+And while we're tempted to do that,
+because we have these customers in our
+hand, and we want to maintain or build on
+the relationships that we have with them.
+If they're not that great.
+It's going to be really hard.
+It's going to be really expensive.
+It's going to be frustrating to do so.
+So, we, we do have to spend appropriately
+on retention and indeed on development.
+We always want to ask that great question.
+Do you want fries with that?
+We always want to try different kinds of
+development activities.
+But recognizing that it's more icing on
+the cake
+than a way, in most cases, to
+fundamentally change customers.
+And the final piece of that is, let's not
+worry so much about
+conventional product-centric wisdom that
+we often use
+to, to, to run our marketing activities.
+Let's think about future looking customer
+value, CLV, and that's
+going to lead us to some very different
+kinds of decisions.
+So those are the tradeoffs.
+Let's wrap up by thinking about, the
+overall customer centricity one more time.
+[MUSIC]
+

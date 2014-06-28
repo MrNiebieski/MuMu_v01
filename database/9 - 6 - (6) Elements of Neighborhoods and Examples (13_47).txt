@@ -1,0 +1,486 @@
+[MUSIC]
+So, now that we've learned a little bit
+about influence from one individual to
+another, I'd also
+like just to think about influence from
+one
+neighborhood to the next, one location to
+the next.
+It's really the same idea But there are
+some important nuances or twists here.
+So, the unit of analysis that we could be
+talking about could
+be a zip code or a city block, or even a
+whole town.
+What we want to think about when we think
+about acquiring customers and
+lead-users, how there may be a process of
+spreading from one location to the next.
+Whether it's a physical neighborhood or
+also, a virtual neighborhood.
+So, I'm going to do this by a way of an
+example.
+And it's a little bit technical, but I
+think if you follow
+along, it will be very useful because it's
+such a central concept here.
+So on the slides, what I'm showing is I'm
+showing a diagram
+that has four pieces, left, right, bottom,
+and to the right-hand side.
+And I want you to think about at the
+top-left, you see, three entities.
+Or think of these neighborhoods but they
+can also be people.
+So there's z1, z2, z3, z4.
+Or if you prefer in my original native
+tongue
+from New Zealand I would say zed1, zed2,
+zed3.
+So those are the four locations.
+Now notice, all of those four locations
+are connected to each other.
+They could be zip codes within the United
+States,
+they could be people on a social network.
+Now in order to understand how something
+spreads, through those neighborhoods
+by a process of influence, we first will
+need to understand.
+Who is connected to whom, or which
+neighborhood is connected to which one.
+So, now let's move down to the bottom-left
+and
+let me explain that little matrix there,
+called C.
+You've probably seen matrices and things
+before in in high
+school and other places, but sometimes
+it's good to refresh
+our memory of what this means, and what it
+means in this particular context.
+So, the letter C stands for Contiguity,
+the word
+at the top of the slide, which just means.
+Things that are next to each other or
+touching.
+They are contiguous.
+So let's start by focusing on the first
+row,
+and then I'll do another example with the
+third row.
+So row number one corresponds to Z1, zip
+code number 1.
+Now what we see is, column number one has
+a zero in it.
+That's just a convention.
+That means that.
+Zip code 1 is not connected to itself, by
+definition.
+And in fact, if you go down the matrix,
+you'll see all the diagonal numbers are
+all zeros.
+That's just a convention that says, zip
+code 2, row
+2, is not connected to zip code 2, column
+2.
+Now if we move row 1 column 2, we'll
+notice there's a one in there.
+Why is there a one in there?
+The reason there's a one in there is
+because zip
+code 1 is connected to zip code 2.
+So we put a one for that combination.
+And similarly, when we go to column number
+3, there's another one, because zip code
+1 is also connected to zip code 3, but not
+connected to zip code 4.
+So you can repeat that process for the
+other three rows, and and
+then you'll see, all that really is saying
+is who is connected to whom.
+Or, which zip code is connected to the
+which other one.
+So now, let's just move across to the
+bottom right-hand
+side, and focus for a moment please on row
+number 1.
+Notice on the bottom-left, row number 1
+are the numbers zero, one, one, zero.
+What that means is that z1, zip code 1 has
+two neighbors.
+Zip code 2.
+And zip code 3.
+Now since zip code 1 has two neighbors,
+one of the simplest
+assumptions we could make is that zip code
+1 is receiving half
+of its influence from the first neighbor,
+and
+half of its influence from the second
+neighbor.
+If we move down to row number 2, we
+notice there that the numbers have changed
+from ones.
+To 1 3rd.
+Why is that the case?
+Because zip code 2 has three neighbors.
+Notice that zip code 2 is connected to all
+of the three.
+And we could assume in the simplest
+possible case, that if
+I have three neighbors, one is exerting 1
+3rd influence on me.
+The other one's
+also a third, and the third one's also a
+third.
+All of my neighbors have equal influence
+on me.
+This is the simplest possible case.
+And of course in doing research, we could
+relax this assumption.
+But I just want to give you a flavor for
+the mechanics of
+how one actually studies a process of
+influence and a process of contagion.
+So, just move up one more to the final
+piece
+of the puzzle, there's something that's
+called Yz t minus 1.
+I know that sounds like a mouthful
+but you can see it there on the screen.
+That's an indicator Y, for zip code Z, at
+t minus 1, that means the
+previous period, of whether some activity
+that
+we're interested in has actually happened
+or not.
+So, we might be interested in whether or
+not, in that zip
+code, at some point before the last time
+period we looked at.
+Had anyone bought anything from
+diapers.com?
+If the answer was yes, we say one.
+If the answer
+was no, we say zero.
+Okay, so now we have all four of the
+elements, the diagram, the
+first C matrix, the C matrix that's
+standardized, and then also the vector.
+Of four rows and one column, that's
+summarizing the past activity
+of either the people, or the neighborhoods
+that we're interested in.
+Now in the next couple of slides that I'm
+going to put in
+the, the deck so that you can see, they're
+a little more technical.
+I know some
+of you out there like the technical
+material, but it's not necessary.
+For understanding what's going on.
+All I'm going to do is I'm going to take
+those two pieces of information, and I'm
+going to combine
+them in a statistical model, to understand
+whether or
+not there's any contagion or any influence
+taking place.
+So, some of you may have looked at the
+technical material on
+the next three slides but if you didn't,
+it doesn't really matter.
+The main thing that.
+To take away or to understand from this
+conversation
+so far, is that when you're measuring
+influence, either between individuals in
+a social network or in-, influence
+spreading from one neighborhood to
+another.
+Is they adopts some certain product or
+service.
+You need to understand two things.
+First of all, who is connected to whom,
+or which neighborhood is connected to
+which other one?
+And what has happened so far with respect
+to the activity?
+If you know those two things, who's
+connected to whom, and what's happened,
+you can combine that information, and do
+some very very interesting research with
+it.
+So now let's get to the four research
+studies that I mentioned at the beginning.
+I'm going to go through them one at a
+time,
+and explain the different things that we
+learned from this
+process, about the degree to which
+customers influence each other,
+and how that actually helps the firm or
+the seller.
+So the first study, Study One, is looking
+at
+neighborhood to neighborhood influence and
+how people come to try
+an internet grocery retailer.
+In this case it's called netgrocer.com.
+below there on the slide, I put the
+abstract from the
+paper that I wrote with my friend and
+co-author Sang Yung Son.
+Sang Yung is there in Korea at AY
+University.
+So what we did is we studied.
+How netgrocer.com spread its sales
+throughout the
+United States after it opened its
+business.
+So what I'm going to show you now is some
+maps
+of how netgrocer.com acquired its
+customers
+over space, over the United States, and
+over time, as the business evolved in the
+first three and a half years.
+I think these maps are really pretty cool.
+Because we can see some interesting
+behavior
+of customers going on underneath the map.
+the same kind of thing I've also observed,
+when I've looked
+at other Internet retail businesses like
+diapers.com, warbyparker.com and so on.
+So, let me put up the first
+map and explain what's going on here.
+This is a map of the continental United
+States, 48 states, except for Alaska and
+also Hawaii.
+Now, what you'll see in the map.
+Is that, there are some areas on the map,
+little dots or squares, that are
+darkened in a dark brown or a black shade,
+depending on where you're watching us.
+What that means is in that location, there
+was
+at least one order to netgrocer.com within
+the first six
+months of operation.
+Now I should say that netgrocer opened in
+May 19, 1997.
+And in the first month that they opened,
+they shipped
+out 34 orders to different places in the
+United States.
+This is now looking six months out.
+Now, as this goes through, just compare to
+the next map.
+We're now 18 months out.
+The first thing you'll notice is there are
+many, many more dark shaded areas,
+meaning, wow.
+Netgrocer had somehow acquired customers
+in a lot more places than
+it had after just six months.
+If we look at after 30 months, the map's
+getting darker still.
+And then finally after 42 months, there's
+an incredible
+visual of almost most of the United
+States, at
+least 20,000 zip codes that are all shaded
+brown,
+meaning at least one person has made an
+order.
+In that zip code.
+So the question that you might have, and
+the question that
+Sang Yung and I had was, is there any kind
+of
+special structure to how this is
+happening, or is it just happening
+randomly?
+So, at the top of the slide we see 42
+months.
+And we might scratch our heads and say,
+hmm.
+I wonder where the new customers are going
+to show up in month 43?
+Would they just be random dots on the map,
+or would there
+be some way to predict where they were
+more likely to come?
+Now, in order to answer that question, we
+went back
+to that material that I showed you
+earlier, the example
+with the four zip codes, and we did all of
+those computations, not just for four
+zip codes in a neighborhood, but for all
+of the zip codes in the entire United
+States.
+But before we run that analysis, I just
+want to
+show you, but before I show you the
+results of
+that analysis, I'd just like to show you
+the data,
+and a little bit of a closer, label of
+detail.
+So what I've done is I've split the
+screen,
+left to right, with the left half being
+the
+west coast of the United States and the
+right
+half being the east coast of the United
+States.
+You can see New York and Philadelphia
+there.
+Now again, this is in month 1, May 1997.
+Notice that Netgrocer had some customers
+near the San Francisco bay area, think
+one down there in Los Angeles, and some
+other in the east coast.
+Look at what happens as we proceed through
+month 2, then month 3, then month 4.
+Are you noticing any
+kind of a pattern here?
+let me do one more month five and now
+month six, and so on.
+Spreading out all the way to month 45.
+What you might of noticed, and I think is
+fairly clearly from the visual.
+Is that the areas that turn dark, that
+have new
+customers tend to be close to areas that
+already have customers.
+So, let me just say two things here that
+could be going on underneath
+this pattern of data.
+So, first of all, it could be the case
+that my
+friend Chris and I live in a similar
+neighborhood in Philadelphia.
+And because we're friends, I happen to
+tell him, hey Chris.
+You should try netgrocer.com or
+diapers.com
+or warbyparker.com or whatever that is.
+And because I've told him through word of
+mouth, he then ends up adopting the
+product too, and that's why you see the
+sales pattern spreading through this
+proximity or contiguity.
+Secondly, there could be information that
+gets transmitted, not
+through conversation, but what I'll call
+through just direct observation.
+This one's very interesting.
+Let's say I order the box from
+Netgrocer.com or Amazon
+or Warby Parker or Harry's or whatever
+company I'm thinking about.
+And the box comes to my apartment
+building.
+And Chris, who lives in the same building.
+Even if he and I don't know each other.
+Maybe he sees the box and as a result he
+then goes
+on to order.
+So that's why packaging is so important
+for e-commerce companies, because
+it's a little bit like advertising and
+distribution all rolled into one.
+Second interesting thing to think about
+here is, where
+the product gets shipped can also play an
+important role.
+So for example, if you think about a
+company like birchbox.com, very
+interesting business that will send.
+Both men and ladies, but the original
+business
+was just for ladies, for $10 a month
+you could receive some samples of makeup
+that you might
+want to try and then later purchase
+through the website.
+Now, if those boxes get delivered to your
+office and
+you open them at the office, other people
+see them.
+You can imagine what might happen when a
+conversation ensues about the product.
+So for an e-converse, e-commerce company,
+even thinking about
+where to ship the product is very very
+important.
+So just to wrap up this study, what Sang
+Yung
+and I did was, we ran a huge statistical
+analysis,
+with millions, literally millions of
+observations.
+And what we tried to do is, we tried to
+control for all of the other things
+that would explain why in one zip code,
+netgrocer.com
+was stronger, and in another one it was
+weaker.
+So you might imagine what those things
+could be.
+They're things like the demographics, so
+in neighborhoods where there's higher
+income, higher
+levels of education, more access to the
+Internet, probably Netgrocer would have
+higher sales.
+So what we
+wanted to do, is make sure that we
+equalized all
+those things, or held them constant in a
+statistical sense.
+But after doing that, we found there was
+still a persistent effect.
+Of this so called contagion.
+And the contagion actually was very, very
+powerful and very,
+very helpful to the company or to any
+e-commerce company.
+And we actually computed from our
+statistical
+analysis what the affect was and how
+beneficial
+it can be for the firm.
+And I put an example there for you on the
+slides,
+so it turns out in the United States that
+the average
+zip code has about 8700 people and it has
+about 5.6
+neighboring zip codes, so that's just the
+fact of the data.
+What we did is we simulated what would
+happen to a zip code currently had no
+customers.
+At netgrocer.com.
+Well, that zip code has about 3% chance if
+it has none
+right now.
+Little under 3% chance of some customer
+showing up in the future.
+However, if in its neighboring, six or
+seven zip
+codes, and additional 20,000 people try,
+then the pressure.
+To try a net zip code where there's
+currently no customers goes up to about
+14%.
+And this is economically very, very
+important for the firm.
+[MUSIC]
+

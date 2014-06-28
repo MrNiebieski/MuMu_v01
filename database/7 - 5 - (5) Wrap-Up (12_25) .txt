@@ -1,0 +1,420 @@
+
+[MUSIC]
+So, I'm going to wrap-up by talking on
+making Customer Centricity Profitable.
+So we, we first spent a lot of time
+defining what customer centricity is.
+And motivating reasons why managers might
+think about moving in that direction.
+And then we, we dove into some of
+the tactics, acquisition, retention,
+development, to better understand them.
+To better understand how we use a customer
+centered lens, a celebration
+of heterogeneity to, to run each of those
+tactics and the interplay among them more
+effectively.
+But now let's put it all together and in
+fact bring it
+back to some of the concepts and methods
+that Barbara laid out
+as well to, to give them the full picture
+of how customer-centric enterprise would
+operate and potentially be more profitable
+than a product-centric enterprise.
+So, it all begins
+with customer lifetime value.
+If you can't calculate customer lifetime
+value.
+If you don't have the data.
+If you don't have the analytical
+capabilities.
+If you don't have the, the, the, the
+information technology to do so.
+Your lost.
+You really need to be able to look at your
+historical data and come up
+with a projection, just an estimate of
+what, what each customer is going to be
+worth.
+And you need to be able to do that on a
+regular basis.
+And let's be real clear here.
+When I'm talking about customers I'm not
+necessarily talking about consumers.
+So you might be a B2B firm and you're
+looking
+at the lifetime value of each one of your
+distributors.
+Some agnostic about how we define
+customers.
+But however your customers are, you need
+to come up with
+a projection about what they're going to
+be worth in the future.
+And you need to have the capability to be
+updating that projection on a regular
+basis, not just,
+hey let's go out and, and figure out what
+these lifetime values are.
+Some companies are going to do it on a
+daily basis.
+Some time, companies will do it on a
+quarterly or yearly basis.
+It all depends on, on the rhythm of the
+company,
+the flow of the data and their
+capabilities for doing so.
+But it's important to be able to do so at
+a reasonably regular basis.
+After we have these CLV estimates, what do
+we do with them?
+It's very tempting,
+if you think about one to one marketing.
+To figure out the, the wants and needs of
+each and every customer,
+and, and send them exactly the right
+message at exactly the right time.
+In order to get them to do the kind of
+thing that we want them to do.
+That's difficult.
+That's expensive.
+That's risky.
+So what we really want to do is to go back
+to the ideas that Barbara first put forth.
+The idea of segmentation.
+We're going to want to break customers up
+into relevant groups.
+She discussed it, I discussed it.
+But in my case, I want to break customers
+up into
+groups that, that we can actually really
+see and measure actual differences.
+So, as as I said before you want to break
+people up based on
+when we acquired them, based on what
+product they first acquired from us.
+based on what campaign they first
+responded to.
+Let's think about different kinds of
+acquisition characteristics.
+As I've said numerous times, let's tag
+customers when we acquire them.
+And again, cleanly associate different
+aspects
+of their acquisition with them, so when
+we watch them over time and we tend to
+say, hey you know what.
+We tend to see really valuable customers
+who are
+associated with a particular product or a
+particular marketing campaign.
+So let's segment customers on relevant
+characteristics
+which might be, in fact I recommend, to be
+associated
+with acquisition, but it could be on other
+basis as well.
+But that segment, when we look at these
+segments, let's, let's look at them, not
+just based on the number of customers in
+the segment, but let's look at the CLVs.
+Let's understand which segments tend to be
+associated on average with fairly high
+CLV.
+And we're going to obviously want to
+allocate more of our marketing spend
+towards those segments.
+The really hard part is something that I
+haven't
+really discussed, is how do we do that
+initial allocation.
+How do we take a budget and,
+and, and spend it on acquisition,
+retention, development?
+I've told you, at the margin, we might
+want to spend a little bit
+more money on acquisition, but that
+doesn't
+mean all of the money on acquisition.
+So that's a real challenge, just figuring
+out how
+to do that kind of budgeting, and you know
+what?
+Companies tend to do that reasonably well.
+Companies through trial and error, through
+experience, usually come
+up with a, a, a reasonable allocation of
+those activities.
+Even if I want to a company to, to just
+add an extra dollar or two to acquisition.
+They tend to be getting it right.
+But a really important way to understand
+if
+you have the right kind of allocation, in
+fact,
+beyond allocation, a very important
+activity for a
+company to be doing all the time is
+experimentation.
+You, you always want to run little
+experiments where, where maybe you're
+varying the
+amount of spend on acquisition or tension
+development, but even on a more micro
+level.
+We want to manipulate the kinds of
+marketing messages.
+Let's send different messages to different
+people at different times.
+And then be patient and track them and try
+to understand
+how different kinds of experimental
+manipulations will be associated with CLV.
+So what kinds of tactics
+are going to lead to appropriate changes
+in CLV, and
+how is it going to vary for different
+kinds of customers?
+How, how will the impact of a particular
+experiment change
+for the different kinds of segments that
+we've come up with.
+It's just these companies need to have CLV
+built in to their DNA.
+They also need to have experimentation
+built in.
+And again, that's going to be true whether
+we're talking B to B,
+B to C, online company, offline company.
+Experimentation is a central.
+It's easier to do in some situations than
+others.
+Well you need to be always thinking about
+experimentation.
+Which experiments we're going to be
+running now?
+What experiment we going to run next?
+How will the results of the current
+experiment inform us
+that what the right one would be to run
+next?
+And thinking long term about the results
+of those experiments.
+One of the big themes of everything that
+I've mentioned is this idea of bottoms up
+thinking.
+We're going to look at our customers,
+we're going to look at the segments of
+those customers, we're going to understand
+who
+are the really valuable segments of
+customers.
+And what can we do to make them
+more valuable and find more customers like
+them.
+So as I, as I discussed earlier we're
+going to have
+these bottom up perspectives to help us
+drive, are indeed decisions.
+They help us drive marketing spend
+decisions.
+To help us understand what kinds of
+products and services we should be
+offering.
+What kinds of marketing tactics we should
+be using to get those offerings out there.
+So this, this bottoms up mentality always
+has to happen.
+But at the same time, there's this
+paradox.
+There's this juxtaposition, between the
+bottoms up thinking and
+the product centric thinking, that still
+has to take place
+for a, for a, for a large but, relatively
+less valuable, chunk of our customers.
+So it's, it's coming up with that, that
+just right balance.
+But all the time, we want to be looking at
+our different segments.
+We want to be thinking about the CLV.
+And asking ourselves, which of those
+segments are the
+right kinds of role models for future
+acquisition activities?
+Too often, a company can get itself in
+trouble by saying, here is the valuable
+segment of customers.
+We're going after these kinds of
+customers.
+That we're going to align all of our
+activities to make
+these customers more valuable and to find
+more like them.
+In fact, a very good example of this would
+be Harrah's Casinos.
+So, you'll remember earlier, I was touting
+all the
+great things they did to help identify who
+the good
+customers were, and to create and extract
+value from them,
+and that's what helped them rise to the
+top of
+their industry.
+In fact many of you might be familiar with
+the
+terminology that they use to describe
+those really valuable customers.
+In fact terminology that many companies
+use today and that's the idea of Whales.
+They describe their really valuable
+customers as
+Whales and they understood the
+characteristics the
+behavioral and o, other kinds of
+characteristics
+of those customers who were and would be
+the most valuable and let's find more like
+them.
+What's interesting about this is that it
+proved to be very successful for
+Harrah's for a long period of time, but
+eventually their competitors caught on.
+Eventually their competitors who really
+hadn't done their homework, looked
+at Harrah's, looked at the success that
+Harrah's was enjoying.
+And say, what is it that Harris is doing
+differently?
+Oh, they're acquiring particular kinds of
+customers.
+Well thank you Harris for doing our
+homework for
+us, we're going to go after those
+customers as well.
+So you have to be thinking about
+competition.
+You have to be realizing that as you're
+identifying the early
+value of customers, your competitors might
+be doing the same thing.
+Either doing it on their own, or just
+looking at
+you and trying to figure out who those
+valuable customers are.
+So all the time, you need to be thinking
+one step ahead.
+If we were to lose this
+valuable segment of customers, which one
+would we go after next?
+So, you don't want to be putting all your
+eggs in one basket.
+You want to have multiples different kinds
+of segments who
+could be role models for your future
+market activities.
+We want to recognize that times will
+change, whether
+its due to competition, whether its due to
+changes
+in the market place and,and, and in many
+cases your going to have to ask yourself
+are these
+the right role models that we want to use?
+And be prepared to come up with a new role
+model segment to
+guide your future acquisition R and D and
+other kinds of marketing activities.
+And the big part of all this, the bottom
+line of customer-centric thinking, is the
+idea that this process that I've just
+described isn't a one-time-only deal.
+You need to calculating COV on a regular
+basis.
+You need to be running experiments on a
+regular basis.
+You need to be reallocating your marketing
+spend on a regular basis.
+You need to evaluting the segments or
+sometimes coming
+up with a new segmentation scheme on a
+regular basis.
+The real success the customer-centric
+thinking, being as it is future looking,
+long term oriented is to repeat these
+tactics over and over and over again.
+Too often
+a company says, I'm going to go out there
+and do the CLV thing and
+I'm going to figure out who those valuable
+customers are, and then I'm going to be
+rich.
+Well, it's not really that easy.
+It takes a while for
+[INAUDIBLE]
+to figure out how to do the CLV thing, how
+to
+estimate those models and drive decisions
+on the basis of them.
+And that's why you need to be not only
+calculation CLV on a regular basis,
+but changing all your management tactics
+associated
+with it on a regular basis as well.
+It's the second, third, fourth time that
+you go through
+all these steps, that you'll really start
+to see the efficiencies
+of being able to do these steps in, in a
+reasonable manner, but also the payoff.
+The effectiveness, the, the reallocation
+of dollars.
+The re-identification of the right kinds
+of customers.
+So it doesn't happen right away.
+You have to be patient.
+Again, that's a major them of customer
+centricity.
+A lot of companies aren't willing to be
+patient.
+They want to see that pay off right now.
+If that's the case, maybe it's not for
+them.
+But for companies that
+are willing to learn, that are willing to
+experiment, that are willing to wait, that
+are willing
+to invest in the right kinds of customers
+and the perspectives and managerial
+practices associated with it.
+They can win in the long run.
+I encourage you to run some of the kinds
+of experiments.
+Think about some of the companies that was
+discussed.
+Even if you are not going to completely
+change the
+company, you're going to do little things,
+here or there.
+Run a little experiment
+on the side to see if you can be
+customer centric, what it takes, whether
+it's worth while.
+Its its, you, you can't just say tomorrow.
+We need to be customer-centric, you need
+to be learning, experimenting, thinking
+very carefully.
+And I want to encourage you and your
+company, to have a
+very thoughtful conversation about the
+ideas that we have discussed so far.
+The ideas of what customer centricity is.
+How you bring it to life, whether it's
+worthwhile.
+That's where I want to leave you and I
+hope that you have a successful,
+customer-centric journey.
+[MUSIC]
+

@@ -1,0 +1,489 @@
+[MUSIC]
+So, welcome back, everybody.
+We're continuing with go-to-market
+strategies.
+And this time we're going to talk about
+customer
+access and distribution, so the fourth P,
+Place Distribution.
+So, let me just run through how we are
+going to address place, as we go through.
+There's just really going to be two key
+things.
+The first thing is, how do channels
+of distribution develop the structure that
+they do?
+So, who's doing what?
+Whose giving the product to the end
+consumer?
+And then secondly,
+how do channels get coordinated?
+Because channels of distribution are often
+places for conflict.
+So for example, I'm Procter and Gamble.
+I'd love it if all Wal-Mart did was only
+sell Tide.
+But of course, Wal-Mart wants to have a
+lot of variety on the shelf.
+Why is that?
+Because not everyone wants to buy Tide.
+People want choice.
+And so oftentimes in a channel of
+distribution there is inherent conflict.
+So we're going to look at, the structure
+of channels, and also how channels get
+coordinated.
+So let me begin with some interesting
+things I think about distribution or
+place.
+We call place sometimes the final
+frontier, the final P.
+Oftentimes people don't think about
+distribution as a way to innovate.
+But I think they really should and here's
+some reasons why.
+So a distribution can really be
+an important source of, sustainable
+competitive advantage.
+So think about the kind of advantage that
+a
+company like Apple, has developed through
+the fact that
+it owns its own stores and it owns the
+experience with the customer.
+Secondly, distribution can provide
+increasing returns to scale.
+What do I mean by that?
+If I'm a large brand like Coca Cola and
+I'm distributed by every single outlet in
+the state of Pennsylvania, I may get a
+disproportionate return to market share
+just because I'm everywhere.
+And then the third thing to think about
+is,
+distribution decisions can be sort of long
+lived and
+difficult ones.
+If you build physical distribution its
+going to cost you some money to do
+so so you really have to be sure about the
+return you can get.
+Now, as I said earlier I think
+distribution is
+often overlooked, but also it's a place
+where there
+can be tremendous value unlocked in terms
+of new
+business ideas, new services, an new
+products, coming into play.
+So think about the way that you can change
+the
+nature of a distribution channel by taking
+a hard good and
+turning it into a soft good.
+Let me give you an example of that.
+So when money is money, an only cash,
+there are
+certain things you can do with it, but
+when money
+becomes credit, or when money becomes
+available on your mobile
+phone, that really frees up the way people
+can transact.
+If you think about a movie, when a movie
+can only be watched in a
+theater, that's very different than being
+able
+to stream a movie onto your mobile phone.
+So, anytime a good is a hard good and can
+be changed into a
+soft good through an innovation in
+distribution
+that can really change the nature of
+markets.
+Even what we're doing now through our
+Coursera
+class is kind of an example of this.
+Normally the Coursera course or the
+marketing course
+that Barbara, Pete, and I teach together
+would be
+taught in a physical facility at the
+Wharton
+School to a limited audience in a
+particular time.
+Now, of course, it could be taught to a
+much broader audience and we're really
+happy about that and
+also it could be taught anytime you guys
+can
+be watching these videos as many times as
+you'd like.
+So, the first thing we're going to do in
+customer axis and distribution
+is think about the structure of the
+channel and who the key players are.
+And the most basic thing to think about
+here is,
+whether a channel is direct, meaning that
+the provider of the
+good or service is going straight to the
+end user,
+or whether or not there are some
+intermediaries or layers involved.
+And let's look at this example on the
+slide of the American Hospital Supply
+Company to
+kind of illustrate why sometimes it can be
+efficient to place an intermediary between
+the producer
+of a good or service and the end user.
+So let's imagine, we have a market with
+three manufacturers
+on the left hand side the three squares
+and three consumers
+indicated by the three circles, now if
+every manufacturer had
+to sell individually to every consumer,
+that would be a possibility
+of three by three or nine different
+combinations of buying and selling
+or transacting occuring, as Barbara spoke
+about in the very first sessions.
+On the other side, imagine how the
+distributor,
+or a middle person, comes into this
+market.
+There are still three manufacturers and
+three consumers.
+But now the three manufacturers just sell
+their product to the
+distributor, and the three consumers just
+visit the distributor or the retailer.
+So now there are only six possible
+interactions.
+So by adding a distributor to a channel,
+creating
+an indirect channel, I dramatically
+reduced the number of
+transactions, well probably not
+dramatically in this example, but
+if you look below the line, it's certainly
+dramatic.
+So, American Hospital Supply found that it
+could reduce the total number of
+transactions
+that would be needed in this market from
+850 million by aggregating down to
+only about 100,000.
+That's still a lot, but it's a huge
+reduction.
+So that's the economic theory of why
+an indirect channel is sometimes preferred
+over
+a direct channel because it reduces the
+total number of transactions that are
+required.
+So again, there are some efficiency
+advantages of
+having an indirect channel over a direct
+channel.
+However, there other advantages to going
+direct.
+What might some of those reasons be?
+Well, if I go to direct to the end to the
+end customer,
+I might create a special barrier to entry
+to others in that market.
+So, now, for example that Apple as a
+manufacturer goes
+direct to a attain customers through its
+retail store, makes it
+difficult for other sellers of how where
+and related software's
+do the same thing or to do it just as
+well.
+A another reason for going direct, is you
+get sometimes much
+better feedback from the market, if when
+you have to rely
+on some into media read to tell you what
+customers
+really like what variety and what prices
+then maybe I'm
+willing to do so, so by going direct you
+can
+kind of go around or cut out the middle
+man.
+The third thing that you can do is you
+can sometimes bundle other goods or
+services more efficiently.
+Higher margin products.
+So if I go into the Apple store to buy an
+iPhone, maybe they
+can also sell me a laptop and some other
+devices while I'm in there.
+Because now, the manufacture
+is controlling that channel, and going
+direct to the end consumer.
+So what I'm showing here now is a diagram
+that kind of explains
+in graphical form all of the things that
+happen in a channel of distribution.
+All of the various flows that have to take
+place and this
+is a pretty long channel of distribution
+as you can see going
+all away from the supplier of the good and
+service on one
+side, all the way to the end customer on
+the other side.
+So here are the five things
+that have to happen.
+And this is an interesting diagram because
+it also
+helps you understand how this flow can be
+disrupted.
+So first of all, physical product has to
+move from
+the supplier all the way down to the end
+user.
+Secondly, sometimes there's a flow of
+title of ownership.
+Of course, there's a flow of payment some
+how the
+end user has to send the payment back, to
+the supplier.
+And then, of course,
+there is information and promotional flows
+as well.
+So, what I want us to think about here is
+in the channel of
+distribution, there are players who are
+responsible
+for the flow of both goods and
+information.
+So as you look at this chart, I encourage
+in your own time to think about how the
+channel
+of distribution could be disrupted in a
+way that's
+very, very innovative that might lead to a
+new business.
+So let's look at the one at the top
+which is the physical flow of good and
+services and
+let's relate that back to our course case,
+quidsi.com.
+So how did Quidsi change or disrupt this
+existing channel of distribution?
+Well, in the pre Quidsi days, if I wanted
+to buy some detergent, I had to go to a
+supermarket, who'd received that product
+from a manufacturer, via warehouses
+and distributors, pick it up myself and
+take it home.
+What Quidsi did is innovating on the
+delivery
+to end customers by sending that product
+via
+Federal Express or UPS directly to my
+home.
+We're seeing, of course, increased
+innovation in
+this area too as companies like Ebay,
+Google,
+Amazon and so on are figuring out ways to
+either send things directly to our
+home of their physical goods and services
+or perhaps send them to intermediary
+places, like
+existing stores where there are lock boxes
+and we can then go and pick them up.
+The same thing also applies for services
+not just for physical products.
+Think about the process whereby in the old
+days you might want to
+book a hotel if you were going to New York
+City for a vacation.
+You might have to call a travel agency or
+even go to the
+hotel website and find out if the product
+is available or call somebody.
+Now of course, that's been disrupted by
+apps; such as, Hotel Tonight.
+You can just go onto an app, you can see
+all of
+the hotels in New York City, where you can
+stay for one night,
+at whatever the rate is for a single
+night,
+and you can just book directly on your
+mobile phone.
+So again, this is a very, very interesting
+chart, because
+i'm sure if you go through, you can think
+of
+ways that this system can be disrupted
+either for information
+or for physical good or for title and so
+on.
+One other example I think is an old one
+but very very instructive if you go back
+to what Michael Dell did, way back in
+the 1990's, he realized that there was a
+physical
+flow of computers where the manufacturers
+like Hewlett Packard and IBM and so on,
+sold into distributors, and the product
+eventually
+ended up on a shelf in computer stores.
+But Chris, my friend and I, would go
+shopping and we would talk
+to a salesperson Amy, who would tell us
+what we needed, and so on.
+So very long complicated channel,
+involving
+people handling inventory and everything
+else.
+At a certain point, Michael Dell realized,
+well, people know enough about computers
+now to order them directly on their own,
+they can call
+1-800-DELL, we could make it and customize
+it and ship it directly.
+So I can't really stress enough a that
+distribution is a
+tremendous source of advantage of new
+business ideas and also of leverage.
+I'll just give one more example just so
+you can think about this in simple terms.
+To compliment the previous chart, think
+about distribution channels as providing
+flows for physical things and for
+information things.
+So, what do I mean by this?
+So, the distribution channel might be
+required to establish an assortment,
+might be required to deliver things, to do
+installation and repair.
+Those are all physical things that need to
+be done.
+The distribution channel also needs to
+provide information, so understand
+what customers want, generate leads,
+procure market feedback, an so forth.
+So, almost everything
+that's done in a distribution channels, is
+some combination
+of a physical flow, an also, an
+information flow.
+So now what I'd like to do is to share
+with you a very useful tool or a very
+useful framework for understanding how a
+distribution channel actually functions
+in terms of the activities that need to be
+done.
+It's called a hybrid grid.
+A hybrid grid is just simply a matrix.
+I know you learned a lot about various
+matrices from Pete.
+This is the same idea
+in a different context.
+So, the columns of our matrix are going to
+be
+the activities that need to be performed,
+everything from generating
+initial leads, all the way through to the
+sale of
+the product or servers and then
+potentially even after sale.
+The rows are going to be the individuals
+or
+entities who will be responsible for
+performing these various tasks.
+And the idea is, you want to construct
+a system of distribution that's optimized
+for the customers
+that you're trying to reach.
+You want the exact right person to be
+performing the
+exact right customer such as the channel
+operates efficiently and smoothly.
+The example I'm going to give is an
+interesting product,
+it's actually a business-to-business
+product sold to farmers that's called BGH.
+It's a bovine growth hormone.
+I'm not suggesting that you should buy any
+of this, but I'm going
+to show you how it works in terms of the
+hybrid bridge hybrid grid.
+So, the marketing
+challenges for the company, Monsanto, who
+produced this product for multiple.
+In particular they had four things they
+really had to worry about.
+So how could they educate farmers that
+this was
+a good thing to use on their, their herd?
+How could they assure quality?
+How could they make sure that the farmers
+were using it correctly?
+And then also, how could they recycle and
+take care of used syringes and so on?
+So the question was, who on Earth is going
+to do what?
+So now let me show you
+this by way of a chart, again you can see
+from the left to
+the right in the columns are all of the
+activities that need to be performed.
+Everything from generating awareness all
+the way through to monitoring that the
+vets and the farmers, sorry that
+the farmers are using the product
+appropriately.
+On the column, sorry, on the rows we see
+all the entities or individuals who're
+responsible for various activities.
+And where I blued in
+the square the idea is, this is the
+optimal combination of activity in person
+who's performing it.
+And the way you figure out the optimal
+combinations to figure out two things.
+First of all, who's best at doing this,
+from a customer point of view,
+and secondly, who is going to get the
+compensation or the rewards for doing so?
+So, if we start for example, with
+generating awareness and
+interest that is a task that was going to
+fall
+to the agency.
+A outbound telemarketing and also Monsanto
+sales people,
+that's not something that local vets are
+probably
+going to be motivated to do unless their
+going to be somehow compensated for doing
+that.
+So the idea is, its the person or entity
+that's best at doing it and also the
+person
+or entity who's going to receive the
+benefit from
+actually undertaking the effort to engage
+in that activity.
+So again, if you wanted to apply this,
+I would encourage you to take your
+existing business, or business idea,
+if you're an entrepreneur, and try to
+figure out what needs to
+be done, activities, and then who should
+actually be doing these activities
+from the point of view of optimizing the
+design of the channel.
+[MUSIC]
+

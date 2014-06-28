@@ -1,0 +1,401 @@
+[MUSIC]
+So now we're going to get into some
+very, very interesting material that
+relates to what
+we were discussing earlier about lead
+users and
+people who are important to reach out to.
+We're going to examine that issue in
+more detail by trying to understand how
+information
+spreads from one person to the next,
+either
+in an offline environment, or an online
+environment.
+And what it means for influence and
+contagion to take place.
+So let me just give a little bit of a
+road map of where we're going to go with
+this material.
+So first
+of all, I'm going to show you a very, very
+controversial study.
+And I'm going to ask you to click on the
+link to play it yourself.
+It's about a minute 45 seconds.
+It's a study on the spread of obesity
+through a network of people in Boston.
+I think you'll find it interesting just in
+terms of
+understanding what a network really is and
+what the elements are.
+I'm making the summarize by definition
+what things take place in networks, do
+you need individuals, do you need them to
+be connected and so on.
+And then I'm going to talk about
+neighborhoods.
+So a neighborhood is just another unit of
+analysis.
+Instead of the individual, we're going to
+think about locations.
+And then we'll wrap everything together
+with four examples
+of research that have been done on the
+following topics.
+The first example is going to be some of
+my own research on Internet retailing.
+And we're going to look at how
+a company called netgrocer.com spread
+itself throughout
+the United States through a process of
+word of mouth, contagion, and so on.
+Secondly, we're going to look at another
+study done by some colleagues at UCLA
+that tried to examine who's influential in
+the social network, and who's not.
+So think of that as being in Facebook,
+or one of those other social networking
+environments.
+The third study is again going back now
+into the off line world.
+It's going to be looking at a network of
+physicians in Los Angeles.
+And what influences who prescribes what
+drugs to their patients.
+So, if I'm friends with Chris, Chris now
+is the doctor, he's our all-purpose
+videographer and he's prescribing a
+certain kind
+of drug to his patients, maybe because
+he and I are friends or he's influencing
+me, I'm going to prescribe the same drug.
+That's a study done by some colleagues
+here at
+the Wharton School in conjunction with
+another professor at USC.
+Then the final study is another one of my
+own.
+This is also going to look at diffusion
+for an Internet retailing company.
+But this time, the company's called
+Bonobos.
+It's a fashion retailer.
+So let's begin.
+here's the controversial study.
+And it's actually out of a book by some
+professors at Harvard.
+And I'd like you just to click on the link
+and go through it.
+But I'm just showing a visual here on the
+screen.
+Basically, what the study proports to show
+is
+that obesity spreads almost like a, a
+virus.
+Like a flu, or something else, that's why
+it's controversial, from people who are in
+a network.
+And what that means is if I'm a friend of
+somebody.
+Who's perhaps struggling a little bit with
+obesity
+then I'm more likely to become obese than
+somebody who's not in that social network.
+That's why it's a little bit controversial
+because it's hard for
+us to get our heads around the idea of
+something like
+obesity, which is a physical thing, really
+spreading more like a
+virus which is a cold and we can imagine
+that being transmitted.
+So just play the video because I think
+it's
+a good way to understand some of the basic
+concepts.
+Again it's about a minute and 45 seconds.
+Now that you actually watched that, let me
+just sort of reiterate
+what the elements of networks are.
+And share what I think are some of the
+most interesting research findings here.
+So one of our colleagues at NYU, Sinan
+Aral, who
+does a lot of work in the area of
+networks,
+he says, really what a network is, is,
+involves pathways
+through which information and resources
+and support flow between people.
+So you've got to have a flow of something.
+You got to have a connection.
+And you must have people.
+Or, we could also extend this to, to
+neighborhoods.
+Now networks can
+either be physical.
+So it could be a social network of people
+who are
+going to the same church or the same club
+in Philadelphia.
+Or it could be virtual, like Facebook,
+LinkedIn, Twitter, and so on.
+Now what's really interesting here and
+what's written at the bottom
+of the slide is that networks usually
+exhibit something called homophily.
+Now, that's a buzzword.
+I don't like to be giving you guys too
+many buzzwords.
+But that's a good one to hang on to.
+If you mention it at the next party you're
+at, you'll be very popular.
+Trust me.
+So homophily means, birds of a feather
+flock together.
+So people who are using friends, people
+who are your close associates.
+Probably on average, are more like you,
+than they are just like random people.
+So people have similar cultural
+backgrounds, similar
+tastes, similar income levels, tend to
+kind of
+flock together, whether it's in a virtual
+neighborhood, or whether it's in a
+physical neighborhood.
+And we'll say more about this later on,
+because when we get to our third week,
+we're going to be looking at various forms
+of
+advertising and communication, including
+advertising over Facebook and we're going
+to take advantage of that principle of
+homophily to
+send advertisements to people who are
+friends of particular brands.
+So just bear that in mind.
+We'll be coming back to that later on.
+So, here's some of the definitions of the
+elements that you
+need to know when you think about what a
+network is.
+So a network can be really, really simple.
+It could be just two people.
+Chris
+and I, we're friends.
+That could be a simple network.
+So it could also be hundreds, or
+thousands, or even millions of people.
+I guess, by now, at least a billion people
+are connected in one big social network.
+And Facebook, I think even LinkedIn now is
+over 225, 250 million people.
+So in order for a network to exist you
+have to have nodes.
+Nodes can be either people or
+neighborhoods or some other unit.
+Normally we're thinking about them as
+people.
+You then need to have some kind of
+connection between people.
+And then also some ability to
+share information, share resources, and
+have exchange.
+So if you want to see some more background
+on that, again
+I've provided another YouTube link for you
+to be able to do so.
+Okay, so we also decide, when we go into
+a network what benefit are we going to get
+from that?
+So that's an important thing to keep in
+mind too.
+Is that entering a network, whether it's
+joining a local club, going to a local
+church, or participating in a
+social network, is a choice and presumably
+other people have made the same choice.
+That's why we may get the birds of a
+feather flocking together.
+People who have similar interests.
+we also decide the networks, whether
+they're
+real networks or social networks, virtual
+networks.
+How many people we want to be connected
+to.
+And then thirdly, at the bottom of the
+slide, an important principle
+is how embedded we are within a network.
+So imagine, for example, that I'm friends
+with Chris and
+a whole bunch of other people at the
+University of Pennsylvania.
+And I'm connected to almost everybody on
+the campus.
+Let's imagine that's true.
+If that were true, then I would be a very
+embedded person.
+Because I'd be connected to everyone who's
+then connected to each other.
+So in some sense, I might be more central
+than other people in th network.
+Okay,
+so, a little bit of interesting research
+that's been done I guess over the course
+of the last 40 or 50 years, about how
+networks work, and how influence works.
+And so I'm going to share with you the
+results
+of famous study that was done in New York
+City,
+that shows that when influence happens, it
+doesn't just
+have to happen through conversations,
+through Chris telling me something.
+I might be influenced just by seeing what
+other people are doing.
+So way back in 1968,
+some professors at Columbia did the
+following experiment.
+They put a person on a street corner in
+New York
+City and the person was, like this,
+looking up at the sky.
+And what they wanted to see was, would
+other people around also,
+upon seeing somebody looking up at the
+sky, also look up themselves?
+And they found in that particular
+instance, when that happened about
+4%, or four people out of 100 would also
+just look
+up, for no other reason, than that they
+saw someone doing it.
+Now when the experiment is put 15 people
+around, just standing looking up at the
+sky,
+then about 40% of the people who weren't
+part of the experiment also just looked
+up.
+So what that tells us is, it tells us
+often times, there's pressure
+to do things when people around us are
+engaging in some sort of behavior.
+So keep that in mind, that influence can
+happen either through conversation.
+Or it can happen through observing things.
+And this is something that we'll come back
+to quite
+a few times as we proceed through our
+study here.
+another classic study of influence that
+was done in
+the 1960s, really, really helps underly
+the key concepts here.
+It was also repeated in 2002.
+So let me explain what that experiment is.
+So you might have heard of the phrase Six
+degrees of separation.
+It's a very common phrase, and it's often
+used
+to indicate that there's no more than six
+people
+between you and anyone else in the world.
+So all of us out there enjoying the
+Coursera
+class are connected by no more probably
+than six degrees.
+So what do I mean by that?
+Let me go back to the original study.
+So in the original study, people in
+Nebraska
+were asked by the researchers, the
+experiment, the experimenters.
+To write a letter to individuals who lived
+in a different city in the United States,
+in
+Boston.
+So again, let's imagine they were asked to
+send letters to people like Chris in
+Boston.
+Now the people in Nebraska, were not
+allowed to take
+the Boston phone book and look up the
+individual by name.
+What they had to do, was to write a letter
+and send that letter
+to somebody that they thought was closer
+to the person in Boston than they were.
+So imagine I'm living in Nebraska in the
+1960s,
+and I'm scratching my head and I say, gee,
+I have a friend from college who's now
+living in New York City.
+New York City is closer to Boston than
+Nebraska is.
+Let me write to that person.
+And then that person repeats the same
+process.
+And what they found was it took about
+six steps, hence the term six degrees of
+separation.
+Now that same experiment was repeated by
+some professors who did something called
+The Small
+World Project, you can look that up on the
+Internet, in 2002, where they got 98,000
+other people to communicate random people
+around the world, communicate with them.
+But this time not through physical
+letters, but through typing and sending
+emails.
+So I might be asked to send an email
+to someone who is an orthodontist who
+lives in Finland.
+I'm not allowed to Google that person and
+email them directly.
+I have to email somebody who I think is
+going to
+be more likely to know that person than I
+am.
+And again, it seemed to take about six
+steps.
+So isn't that fascinating.
+We're all connected by about six steps.
+Now that's connections but connections
+don't necessarily mean influence.
+It turns out that for influence, there are
+really just three levels or three steps
+that matter.
+What do I mean by that?
+So again let me think about my friend
+Chris in the example here.
+So Chris and I are friends.
+We're a first degree connection.
+So if I tell Chris, hey Chris, you should
+order all your detergent
+from soap.com.
+He might copy me.
+I might be able to influence his behavior.
+And then Chris might tell his younger
+brother, let's say.
+So now that's two steps outside.
+I had some influence over Chris's younger
+brother.
+And maybe Chris's younger brother's
+girlfriend starts doing the same thing.
+But I almost have zero influence
+over Chris's younger brother's
+girlfriend's college roommate.
+So going out four steps is just a bridge
+too far.
+So that's another very,
+very important thing to understand in
+terms of influence.
+Influence spreading out from you typically
+will not go more than about three steps.
+[MUSIC]
+

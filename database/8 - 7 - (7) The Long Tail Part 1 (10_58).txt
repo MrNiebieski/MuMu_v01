@@ -1,0 +1,394 @@
+[MUSIC]
+So, hi again everyone.
+Today, I'm very excited to present to you
+a concept that I
+think is really, really important for
+understanding how online and offline come
+together.
+it's called the long tail.
+The idea was developed by a fellow called
+Chris Anderson
+who actually wrote a book elaborating on
+the entire concept.
+I'm going to give you the key ideas from
+Chris's book.
+But this is something that you really want
+to keep in mind as you
+think about how the Internet is changing
+our behavior with respect to both selling
+and
+also shopping and buying.
+So just to get us going, I'll first of all
+show you how we're going to proceed.
+We're going to start out with a little bit
+of background on
+what things used to be like before the
+internet came along.
+Then I'm going to present The Long Tail
+Concept
+and a little bit of economics on it.
+Then I'm going to to introduce the
+research study by some colleagues at MIT,
+where they looked at Omni Channel and how
+the Long Tail played out there.
+And then finally a piece of my own
+research on something
+I'm calling, the spatial long tail.
+I'll become clear what that is as we go
+through our session.
+So, let's start at the start by looking at
+a picture of the so-called long tail.
+It'll be coming up a lot, so if you don't
+get the full thing right now, that's fine.
+I just want to give a brief overview.
+So the long tail has two axes, a y axis
+and an x axis.
+The Y axis is a measure of popularity
+which in
+many cases is going to be the sales of the
+product.
+It could also
+be the number of downloads, the number of
+people who follow somebody on Twitter, for
+example.
+Just some measure of popularity.
+On the X axis, all the products are lined
+up from the
+most popular product all the way down to
+the least popular product.
+So let's take a common example that I
+think we could all relate to.
+Let's think about all the books that are
+available for sale on amazon.com.
+And let's imagine there are perhaps five
+million books for sale.
+I'm not sure what the number is, but I
+know it's a
+huge number, and certainly way more than
+the number of
+books that could ever be sold in a
+physical retailer.
+And let's imagine that the top-selling
+book
+is Harry Potter and the Sorcerer's Stone.
+People seem to like Harry Potter.
+So let's imagine that's the top book.
+And way, way down the tail, at rank
+3,900,000, there could be some other book
+that's
+a much more obscure book about, you know,
+gardening in Philadelphia or something of
+that sort.
+So the idea of the long tail is, that the
+products that
+are way out in the orange area to the
+right are so unpopular.
+Or so niche, and so slow to turn over that
+it just wouldn't make
+sense for you and I to have a physical
+book store to sell them.
+That's the idea.
+The products on the head, on the other
+hand,
+those are the ones that we would want to
+stock if we had a physical store, because
+those
+are the ones that are going to sell the
+most.
+That's the distinction between the head
+and the tail and
+the key idea of the long tail is that the
+internet makes it
+possible for us to have access to all of
+those products in the tail.
+And in fact, depending on what kind of
+seller you are, the total sales and
+profits
+coming from all those products in the
+tail, can really add up to be quite a lot.
+Ok, so that's a basic description.
+Let's continue on with a little bit of
+background and a little bit of history.
+So historically, pre-internet at least, we
+all lived in a world of so called hits.
+Blockbusters,
+Blockbuster movies, Blockbuster,
+Blockbuster music albums and so on.
+And most people ended up buying using
+consuming the
+things that were popular, and firms also
+were motivated to
+try and produce those Blockbusters
+However, because of the
+internet, economics of distribution have
+really been changed a lot.
+Now it's possible to offer much, much more
+variety than ever before.
+So, now I want to address the long tail
+from two different perspectives, both the
+supply side and the demand side.
+Both of these perspectives are important
+when we think about markets.
+So on the supply side, because of the
+Internet, it's now possible for sellers to
+just
+offer a lot more variety, whether it's
+variety
+of beer, diapers, flowers, movies, songs,
+you name it.
+It's possible to offer a lot more variety
+because
+the economics of distributing those
+products has changed dramatically.
+Secondly, there's also a demand side
+explanation for the long
+tail or a demand side story that goes
+along with it.
+So in the old days, how would I
+find out about sort of unusual products
+and services?
+Perhaps through friends and family, or
+people that I meet, acquaintances.
+But, essentially I may be locked out of
+understanding those products
+or coming across them because they
+wouldn't be carried by the retailers.
+Remember, the retailers or the stores
+would only really carry the products that
+were in the head, so to find products in
+the tail was very, very difficult.
+So, one implication of this is our tastes
+now are
+becoming more varied because, simply, we
+have access to more demand.
+Acc-, sorry, access to more variety of
+product than we ever had before.
+So now let me compare and contrast the
+economics of the long tail, that we're
+going to look at in a second, with the
+old economic ideas that are still pretty
+useful,
+but have been around for a long point in
+time.
+A long period of time.
+So, there was a fellow called Pareto who
+noticed
+many, many years ago, back in 1897, that
+about 80%
+of all the wealth of the residents and
+citizens of
+the UK was owned by only 20% of the
+people.
+more recently we've often discovered that
+80% of the profits that we make
+are based on only 20% of the products that
+we sell, or 20% of
+the customers that we have.
+Hence the common 80/20 rule.
+Now the long tail kind of changes that
+rule
+a bit because its just its not necessarily
+80/20 anymore
+we can have a huge tail of products a
+faster
+number that actually account for
+individually very very little profit.
+But collectively account for a lot.
+So let's continue on and see how that
+works out.
+Another law thats kind of an interesting
+one is named after a fellow
+called George Zipf, Zipf's Law.
+And what he found is if you take a
+manuscript or a book the word that's the
+second
+most popular word in the book, or most
+used
+word is about half as frequent as the most
+popular.
+And the third most commonly used word is
+about
+one third of the occurrences as the most
+popular one.
+This law also applies to other things like
+the
+distribution of populations and so forth
+within a country.
+So here's
+two key principles on the slide that
+really underly this idea of the
+long tail, and also come up again when we
+talk about preference isolation.
+So let's start with the first one, what I
+put
+on this slide is this idea of tyranny of
+locality.
+What does that mean?
+That means that the things that are
+available to you locally
+are dictated by whatever the local sellers
+decide to offer you.
+And they may be different from your own
+taste, so
+now what I like to do before we get into
+more detail on the long tail, is to ask
+you all out there two questions.
+One related to supply and the other
+related to demand.
+So I'd like you to think about a product
+that you use or a product that
+you like, that you can't find available
+locally,
+because it's just not popular among your
+local neighbors.
+So imagine you like to sunbathe and go to
+the beach, and you like to use a
+special kind of lotion that you can't
+find,
+because most of the pharmacies in the area
+only
+offer very high SPF products, and that's
+not what you want.
+So try and think of a product that you
+can't find locally.
+That's going to be a demand-side
+explanation for the long tail, where
+all of that variety is going to be
+available on the internet.
+Secondly, I'd like you to think about if
+you were a seller on the supply side, and
+you had a sort of unusual product and
+where were you, would want to sell that
+product.
+So the product that was mentioned in
+Chris's book and I'll just
+mention here again There's actually a very
+good
+movie called Once Upon a Time in India.
+Now, if I wanted to show that on physical
+screens in the United
+States, I'd probably have to go to large
+cities like Los Angeles and
+New York where there's a high
+concentration, perhaps of people from
+India, or
+who have an affinity with Indian culture,
+And I would show it there.
+It wouldn't have been possible for me to
+show it to the
+two and three people all over the country
+in different markets who actually
+would be interested.
+But now through the internet, what I can
+do, is
+I could make it available for download,
+and with two
+people watching here, and three here, four
+here and five
+here, that would add up to a lot of
+demand.
+So hopefully you can see through those two
+examples, and the one
+that you've thought about, that the long
+tail addresses both demand for product.
+You can get that variety now.
+And also it affects the way product is
+being supplied.
+So let's go back to our diagram.
+Just going to to make two more points
+on the diagram.
+And there are two questions on the bottom
+that I'm going to lead us through.
+So here is the head in the red, and the
+tail in the orange again.
+And the first question I'd like to pose to
+you and then I'll release my answer for
+it, is how satisfied would you be with a
+random product that you drew from either
+the head or the tail?
+Might be one of those fantastic
+movies from that great little country
+that's
+south of the equator, what's it called?
+Not Australia, the other one, the one to
+the,
+to the right, New Zealand, called Lord of
+the Rings.
+So, that's a pretty popular movie, and if
+you just
+randomly sort, odds are you'd be quite
+happy with it.
+You might like it eight out of ten.
+If on the other hand I sampled a really
+obscure, odd movie.
+That was not that popular, a niche movie
+from the tail.
+And I showed you that, odds are you
+probably wouldn't like
+it very much.
+So in general, as you go from he head
+to the tail, the average level of
+satisfaction declines.
+But that's just the average, as you've
+learned from Pete,
+[INAUDIBLE]
+and variance is also very important.
+Now, there may however be a product in the
+tail that most other people don't like,
+but for you
+is a ten out of ten movie, or song, or
+book, or whatever it is else that you're
+looking for.
+So if there were an efficient way for you
+to filter and get
+into the long tail, you could find stuff
+that you really, really love.
+That's the idea.
+So on average as you go from the left to
+the right Your
+satisfaction would be coming down if you
+were
+shown a random product, but your
+satisfaction could be
+really high if you were able to go into
+the right and find the things you exactly
+wanted.
+So let's continue with those ideas.
+What are the main characteristics of the
+long tail that we have here on the slide?
+So, first of all the ratio of niche
+product sales to big hit sales is
+changing.
+Now there's more demand coming from all of
+those niche products.
+Being added together.
+The distribution
+efficiency is also changing.
+You can now get access particularily to
+content-type products on tablets, and also
+mobile phones.
+In terms of being able to find your
+way into the long tail, that's where
+consumer reviews
+and so on come in, and we're going to
+be talking more about reviews in a
+subsequent discussion.
+So, the long tail, as I put here
+on the slide, is just culturally
+unfiltered by scarcity.
+So in the old days,
+the owner of the store, again our friend
+Chris who's doing the video here, the
+owner
+of the store he would decide what as going
+to be offered on a local market.
+He would decide what movies he would show
+on the screen.
+He would decide what beer was going to be
+available in his liquor store.
+But now, through the long tail, all of
+those things
+can be made available through the
+Internet.
+[MUSIC]
+

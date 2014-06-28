@@ -1,0 +1,521 @@
+[MUSIC]
+So the idea that we're going to talk
+about, preference isolation, is the notion
+that
+you have preferences and tastes that are
+different from the other people in your
+neighborhood.
+And as a result, local stores, local
+restaurants, local
+merchants aren't motivated to give you
+what you'd like.
+So just to motivate this a little bit
+more, let's
+think about an example where everyone in
+your town wears ties.
+most people happened to want to wear blue
+ties, and you wear a red tie.
+Now think about the problem faced by
+manufacture and seller of ties if there's
+a cost associated with producing more
+variety.
+And typically there, there is.
+The manager of that factory and that store
+might say, you know what?
+most people want blue ties.
+Only one fellow wants a red tie.
+We're not going to make any red ties.
+And as a result, the person with the taste
+for the
+red tie, the preference minority, is not
+going to get what they want.
+So I'm going to explain in the next few
+slides how this problem can
+be overcome through online intervention,
+particularly
+through sellers who operate on the
+internet.
+to make a more personal example here,
+I often wonder myself in myself in
+Philadelphia
+why it is that I can't get Vegemite when I
+go to the local supermarket.
+Let me show you a picture of Vegemite.
+I'm sure my friends in the UK Australia,
+and New Zealand and other places have seen
+it.
+Here's a little kid with Vegemite all over
+his face.
+It's a delicious black paste that you have
+on toast with cheese and avocado and stuff
+like that.
+I look for it all the time when I go
+to the supermarket in Philadelphia, but I
+can never find it.
+Why?
+Because I'm probably one of the only few
+people that would actually buy it.
+So the store manager who wants to stock
+items that are profitable
+and sell frequently, is not going to pay
+attention to my preferences.
+I'm a preference minority.
+And therefore I'm not going to be able to
+get what I want.
+The internet, however, could solve this
+problem.
+So let's go again,
+a little bit of background.
+Here's a slide of our friends at Quidsi.
+And, the research for this particular
+article
+that I wrote and published with a friend
+of mine, Jeonghye Choi, at Yonsei
+University, is
+based on data that we got from
+diapers.com.
+here's the article itself, the title of
+the article.
+if you want to you can always go and read
+it for
+more details, but I'm going to give you
+the flavor of the main findings.
+The article is called Preference
+Minorities and the Internet.
+So, let's see how this works.
+The notion is that if you're selling
+things
+online, that gives you the ability to
+aggregate people.
+Maybe there's only two people in
+Philadelphia that like Vegemite, but in
+all
+the towns in America maybe there's 100,000
+if we added all those people together.
+And even though it wouldn't be efficient
+for us to serve them in
+individual shops, we could sell that
+product
+over the internet, that's the basic idea.
+So preference isolation is going to bring
+shoppers to the online marketplace instead
+of the offline marketplace where
+they're locked out, and it's going to do
+that in a systematic way.
+So now let me get into the details and
+conclusions of this particular study,
+again using the data from diapers.com that
+we're all by now, pretty much familiar
+with.
+So, in order to test out our idea, that
+people who were different from
+their neighbors weren't getting served
+adequately by
+offline stores, Jonghei and I went out,
+and
+we did a little bit of a field study, kind
+of a fun field study, and here's what we
+did.
+There's a chart on the slide that you can
+see.
+Where we went out and we visited different
+supermarkets in the Philadelphia area.
+Three supermarkets were from the Fresh
+Grocer chain.
+And two of the supermarkets or, or stores
+were Walmarts.
+Now, what's interesting is all of those
+stores, all
+the Fresh Grocers, they're all the same
+size stores.
+But their local markets were different
+with respect
+to the number of households in the local
+market
+that had kids.
+So again, if you look at the chart, you
+can see that Store 1,
+about 10% of the population in the
+immediate area around the store had young
+children.
+They were households with babies.
+Store 3, on the other hand, about 16
+percent of the
+households in that neighborhood where that
+store was located, had children.
+So, what does this mean for our idea or
+our theory?
+Well, the people who live in the market
+where there's only 10%
+of households with kids are going to be
+relatively more neglected by the
+supermarket than in the market where there
+are 16% of households with kids.
+So if my friend Chris is the manager of
+the store, he's going to
+say, you know what, not that many people
+in the 10% market have kids.
+I'll just have Pampers and a few leading
+brands on the
+shelf, and I won't worry about having a
+lot of variety.
+If, on the other hand, he's managing the
+store where 16% of the target market has
+children, he's going to say, you know what
+a lot of people in
+this local neighborhood have kids I'd
+better cater to their tastes and
+preferences.
+And so what you see in the chart is
+in neighborhoods where there's a higher
+fraction of households with
+kids, the actual stores have more shelf
+space, more linear
+square feet, and more variety of product
+of the shelf.
+Now of course this doesn't prove our
+theory, but it does indicate
+that local stores pay attention to the
+composition of the people who
+live in the neighborhoods, and then they
+stock merchandise accordingly.
+As a little side note, this was kind of a
+fun thing to do in Philadelphia.
+Jeonghye and I had a pink measuring tape,
+we were running around trying not to
+get caught by the store managers measuring
+how much space was allocated to these
+things.
+If you've been to Philadelphia, it's kind
+of a tough town.
+It's a place where they boo Santa Claus,
+at least the football fans do, so you have
+to be a little bit careful if you're
+running
+around with a pink tape measuring stuff in
+stores.
+Okay, so let me elaborate a little bit
+more on this next slide
+with the actual theory, that we built up
+to try and explain this concept.
+So imagine we have two different markets.
+this is just purely a conceptual argument,
+so the first market, Market A, is a
+market where there are 100 households with
+babies or 100 households in the target
+population.
+The total population of this particular
+market is 200 people,
+so half of the people in this local
+neighborhood have
+the characteristic that we want, in this
+case it's whether or not
+they have children, but you could think
+about this idea much more generally.
+It could be half the people want Vegemite,
+or
+any other product that you could come up
+with.
+And so notice in that market there is one
+store, and the store is 200 square feet in
+area.
+And so the manager of that store says,
+gee, half the people in the market have
+this particular characteristic, let's say
+households with kids
+So I'm going to allocate half of my store
+to products that cater to those people.
+And again this is just a stylized example
+to make the
+main point but hopefully you can see where
+this is going.
+Now in Market B, again there are 100
+people who have
+the characteristic we're looking for, in
+this case households with children.
+But the total population of the market is
+1,000 people.
+So these people with kids are a little bit
+more rare in this case.
+They're only 10% of the population.
+Now notice however, because Market B
+has more people in total.
+It has a 1,000 instead of 200.
+there's more stores.
+And we're just assuming that the number of
+stores grows with the population.
+So it, in a market of 200 people, if
+there's one store,
+in a market of a 1,000 people, there will
+be five stores.
+Now again my friend Chris who does a lot
+of store managing I guess.
+He's in market B and he says gee, I'm
+running these fives
+stores, and each store is two-hundred
+square feet in size, and I notice
+that 10% of the households in the
+local market have children, therefore I'm
+going to
+allocate 10% or 20 feet of the space in my
+store to serving that group.
+So what you notice here is even though in
+both Market
+A and Market B, the target market is the
+same size, 100
+households with kids in A, 100 households
+with kids in B, the
+extent to which the offline market is
+paying attention to them is
+very, very different.
+The customers who live in Market B,
+everything else held constant, should be
+more likely
+to want to buy their products online, in
+this case from our friends at diapers.com.
+So let's see if that is in fact true.
+So now Jeonghye and I went and we looked
+at the real data.
+This is just a map, it's a black and
+white map, but hopefully you can get the
+idea here.
+This is an area of Los Angeles county in
+the United States,
+and what you notice is in the top map
+there's an indicator
+of how isolated the customers are.
+We call this the Preference Minority Index
+or PM Index.
+And the darker the color, or the darker
+the shading, that means customers are more
+isolated.
+That's in the top part of the map.
+In the bottom part of the map, these are
+the sales to diapers.com.
+And again, you notice the fifth quintile,
+or
+the area that's having the most sales, the
+darker
+areas, are sort of the same dark areas in
+the bottom part of the map as they
+are at the top part of the map.
+So this is indicating some support for our
+theory that when customers
+are isolated, they're more likely to
+use online merchants instead of offline
+merchants.
+So the next thing that we did after
+looking at the
+raw data is do what a lot of us here at
+the
+Wharton School will do, whether it's Pete
+or Barbara or myself, is
+we ran some statistical analysis or some
+econometric analysis on the data.
+And what we did was we tried to see if it
+was in fact the case
+that sales at diapers.com were higher in
+markets where
+the customers that they were focused on
+were more isolated.
+Everything else held constant.
+So we controlled for the education level.
+We controlled for the number of stores in
+the area.
+We controlled for the population density.
+We controlled for the income.
+All the things that you might think would
+effect online verses offline buying.
+So all of those things were held constant
+in our study.
+And what we
+found was, yes, there was a highly
+statisically significant effect of
+isolation on sales.
+And markets where customers were more
+isolated, they were more
+prone to go online, and sales at
+diapers.com were higher.
+So now I'm going to explain the magnitude
+of the effects, which I think is really
+interesting.
+It was also very useful for the company,
+for the guys at Diapers.com.
+So most of you, I think, are familiar with
+the idea of a percentile.
+But let me explain that,
+because that's going to be important for
+understanding these results.
+So if you've ever taken a standardized
+test like an SAT test or a GMAT test,
+any test at the end of high school or to
+get into college, those kinds of things.
+You'll remember that when you get your
+score back, in addition
+to the raw score, you typically get a
+measure of percentile.
+So where is it that you ranked, relative
+to everybody else that took the test.
+So if you were in the 90th percentile,
+that's pretty good.
+That means only 10%
+of the test takers beat you, and you beat
+you know, 89 90% of everybody else.
+If you're in the tenth percentile, which
+I'm sure that none of you were, that means
+that you only beat 10% of the people and
+in fact 90% of the people beat you.
+So, what Jeonghye and I does, we used this
+same
+concept, but we applied it to our
+preference minority index.
+So, we looked at all of the locations in
+the United States.
+All of the areas, all of the zip codes
+that
+were really, really isolated in terms of
+people with kids being relatively rare.
+And what we found was, for the zip codes
+of the 90th
+percentile on that index, the online sales
+at diapers.com were 50% higher.
+So think about that result for a moment.
+If we have two zip codes that were
+absolutely identical in all respects and
+in particular, these two zip codes had
+the same total number of households with
+children,
+100 here and 100 here, just like in the
+example.
+If this was a zip code that was more
+isolated, the online demand at diapers.com
+was 50% higher.
+So we think that's a very interesting
+finding and also one that
+internet retailers can actually use when
+they think about online offline
+interaction.
+Now if you think back to the long tail you
+might
+remember the different brands also have
+different levels of sales so the
+most popular brand has the highest level
+of
+sales and the baby diaper category that's
+Pampers.
+And the second one is the second most
+popular and so on
+down all the way out into the tail or into
+the niche products.
+So the same thing happened here.
+What we found was if we looked at
+particular products that were niche
+products, and we compared
+an isolated market versus a non-isolated
+market, the
+sales in the isolated market online for
+niche products
+were about 125% higher.
+And I'm going to show you this in a
+diagram to make it easier to remember.
+So now here's the diagram that explains
+everything that
+we've discussed and brings it all together
+in one place
+and also, importantly, relates it back to
+the other
+key idea, the long tail that we've all
+ready discussed.
+So let me show you what's going on.
+There are three pieces to this diagram
+that
+are important in terms of understanding
+the overall concept.
+So first on the left-hand side
+we see Market A and Market B, those are
+just those markets that
+we had previously where we looked at the
+fraction of households with children.
+So notice that Market A is a market where
+offline retailers are paying a lot of
+attention to our target customers and
+households with
+babies, because they are 50% of the
+market.
+And Market B, the offline retailers,
+aren't paying much attention
+to our target customers who are the
+households with children.
+And that's reflected at the bottom of the
+slide with the
+little thumbs up and thumbs down in the
+two markets.
+So what does that mean for the way
+products are sold and bought online versus
+offline?
+So for that, we have to go to the top
+of the diagram, which is our old friend,
+the long tail.
+And so to just remember, by way of review,
+that the long tail is an idea or concept
+that
+has a plot of all of the products that
+are available from a particular seller or
+a particular merchant.
+The Y-axis
+is always the sales of the product.
+And the X-axis is all products lined up
+from the most popular to the least
+popular.
+So it just so turns out in the diapers
+category
+the most popular brand is Pampers,
+followed by Huggies, then Loves.
+And then there's a whole bunch of other
+products literally thousands
+and thousands of different varieties of
+styles and brands and so on.
+And one that I've highlighted here is
+called Seventh Generation.
+That's a niche product
+out in the tail that has lower sales than
+the other tree.
+Seventh Generation is not available at
+every offline retailer.
+So how do we relate this long-tail idea
+back to
+preference isolation and see how the two
+things come together?
+Well if we think about the online
+retailer, that's our
+friends at diapers.com, they carry the
+entire distribution of products.
+They offer everything, probably have the
+largest assortment of baby-related
+products and diapers.
+Probably of anyone in the world actually.
+Certainly bigger than any physical store.
+Now if we turn to Market A, in Market A
+there's also pretty good variety.
+Maybe not everything is there because
+physical stores have space constraints
+and so forth, but Market A has a decent
+amount of variety.
+Meaning that the offline sellers are quite
+attracted.
+Market B, however, most of the sellers are
+just stocking
+the popular brand and not really catering
+to a full range.
+So in Market B, the amount of product
+available is much
+more limited and is just really focused on
+the most popular brand.
+That's why, in Market B, the customers are
+more prone to shop online versus offline.
+50% overall, and up to 125% more online
+shopping when they're looking for those
+niche brands that are really impossible to
+find in those preference-isolated markets.
+[MUSIC]
+

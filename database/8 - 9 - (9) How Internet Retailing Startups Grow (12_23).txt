@@ -1,0 +1,440 @@
+[MUSIC].
+So now, we're going to continue our
+discussion of how the real
+world and the virtual world interact with
+each other in online/offline competition.
+So if you look at the slide, there are
+five companies that
+I'm going to speak about and this is
+actually very exciting for me.
+Because these are comapnies I've had the
+pleasure
+of working with in terms of analyzing
+their
+data, and also doing some research trying
+also
+to help out the management team a little
+bit.
+First one is a company called
+netgrocer.com.
+It was really one of the very, very early
+companies
+in the internet selling non perishable
+groceries starting at about May 1997.
+And I'm going to show you how that
+business grew
+and evolved, and try and give you a sense
+of how it is that Ebusiness companies,
+Ecommerce companies
+spread themselves over time and over space
+in particular markets.
+the second company I'm going to talk about
+is one of
+our favorites of course, it's part of the
+Quidsi family.
+That's diapers.com which began life in
+2005
+at 1-800-DIAPERS.com.
+In fact you may see a little bit behind
+me.
+I'm actually still here in the Quidsi
+warehouse,
+again backgrounded by 1.1 Sorry, 1,200,000
+square feet of
+warehouse space, robots, and so on,
+shipping diapers and
+all kinds of stuff all over the United
+States.
+The third company we're going to talk
+about, warbyparker.com
+this company was founded a little bit
+later.
+This company was founded in 2010 in
+February
+by four students at the Wharton School
+who wanted to do something very, very
+interesting.
+They wanted to take a product that most of
+us are buying offline.
+If you wear the product, which is glasses.
+That's what Warby Parker sells.
+You would go into an optician's, get your
+eyes tested, and maybe
+try on a bunch of different frames, and
+buy glasses in that environment.
+Now what the forefounders noticed is at
+that point in time, less than 2%
+of that product category in the United
+States were sold online so they build
+a company to try and change that and
+sell glasses online and also through
+offline channels.
+So, we'll talk about those guys a little
+bit, if
+you happen to be in Boston or New York
+City you
+could even go and visit the flagship store
+they have
+their own real world flagship store
+selling products directly to customers.
+The fourth company I'm going to talk about
+a little bit is a company called Bonobos.
+This is a little bit later then
+Diapers.com and a little bit earlier than
+WarbyParker.com.
+It was founded in 2007 by two
+general coming out of the Stanford
+Business School.
+The current CEO is still there, Andy Dunn.
+And their idea was to sell men, for all
+the guys out there fashion items at great
+prices and
+also fashion items that really sort of fit
+you
+and give a better feel and trim than other
+products.
+The final and fifth company on the slide
+is
+citruslane founded by a friend of mine
+Mariah out there
+in California.
+Really addressing the problem that some of
+us
+have if we have children, how to get the
+best toys, the best stuff, the best kind
+of gifts for our kids on an ongoing basis.
+Basically to discover new products that
+are
+relevant to households that have small
+children.
+And if we don't have small children
+ourselves,
+we might like to gift that to somebody
+else.
+So those are the five companies that we're
+going to sort of look a
+little bit under the hood to try to
+understand how all of this works.
+So,
+I'm just going to explain a little bit
+about what
+we do as academics when we examine these
+things, and what
+I've done with my friends and coauthors,
+is we're able
+to get the sales data from these companies
+and match it
+up with other data mainly provided by the
+US government
+about the kinds of people that live in
+different areas of
+the United States And then understand how
+the characteristics of
+a physical environment affect the sales of
+a virtual world company.
+So, why is it that one zip code has very,
+very low sales
+of Diapers.com products and another one
+may have thousands and thousands of
+customers?
+Those were the things we were trying to
+understand and
+that was the data that we used to do it.
+So the next thing I'm going to do is
+I'm going to take us through five
+principles that I
+discovered with my coauthors doing this
+research about
+how the online world and the offline world
+interact.
+If you're interested in reading this,
+the article's called, What Matters Most in
+Internet Retailing.
+It was published by the Sloan Management
+Review.
+So, the first thing that we found, kind of
+summarizes some of the other things that
+we talked about
+earlier, is that when an online business
+opens up, it
+changes the cost benefit for the shopper
+in particular locations.
+So, if I'm living in Philadelphia 19123,
+which is where I
+do live, and I have access to certain
+kinds of stores to
+buy clothing, and let's imagine the
+closest one is two or three miles away.
+When an internet store opens up, let's
+call it jeans.com
+that changes the relative attractiveness
+of shopping online versus offline.
+So that's the first thing.
+When an internet company comes into play
+it changes
+the relative cost and benefit of shopping
+online versus offline.
+So now we're back on principal two.
+The second of our five principals.
+So the second principal that I discovered
+primarily
+in the beginning looking at sales from
+netgrocer.com starting
+in 1997 is that the way ecommerce
+companies develop
+their sales is very structured and very
+very predictable.
+And so what I'm going to show you now is a
+very
+interesting graphic that starts out way
+back in May, 1997, and there's
+a picture of the US, you can see there on
+the
+screen, United States, and you can see the
+areas that are shaded.
+Those shaded areas are areas where
+somebody in that location, in
+that zip code, of which there are more
+than 30,000 in
+the United States, had actually placed an
+order at the website
+netgrocer.com, way, way back in the dark
+ages of internet retailing.
+Now what's interesting is we fast forward
+through the
+slides what we can see is that by the
+time we've got about 42 months out or
+about
+three and a half years out, Netgrocer.com
+was selling
+products in more than 18,000 zip codes.
+That's why the whole map now looks rather
+dark and rather shaded throughout the
+entire United States.
+So an interesting question then arises.
+How does this business grow?
+How did it go from 34 zip codes in 1997 to
+three and half years later in 2001,
+selling into more than 18,000 zip codes.
+What did that look like?
+And if we were to sit there in January
+2001 and say to ourselves, and February
+2001,
+where are the new customers going to come
+from?
+Are they just going to pop up randomly in
+the
+United States, or will there be some
+special structure?
+Now, if you're guessing that there's some
+special structure, you'd be right.
+And let me now show you the next series of
+slides that illustrates that.
+Now, what I've done in these slides is
+I've separated
+the East Coast and the West Coast of the
+United States.
+So, primarily around California and
+primarily around the New
+York City area, and what you can see as
+the slide rolls through, is that sales
+tend to
+pop up in areas around that had existing
+sales previously.
+So, you tend to get more new customers
+showing up
+in locations that are close to locations
+that had customers before.
+Now, why is that?
+Well, there's really two reasons.
+The first reason is, perhaps I buy
+something and
+I live in zip code 19123 and when I'm at
+my
+local cafe or when I'm in my apartment
+building, I tell
+one of my neighbors, hey, you really
+should try soap.com, and
+so there's a conversation or a word of
+mouth that takes place.
+The second thing that goes on that's also
+very very interesting
+is it could be the case that customers are
+observing the
+behaviors of other customers you might
+have asked yourself the question
+why is it that Ecommerce companies have
+really really ugly packaging sometimes.
+Why does our friend Chris at soap.com ship
+us
+stuff in a box that's green, and brown,
+and
+orange, and all kinds of colors, that if
+you
+wearing them, you would look rather, let's
+say, clownish.
+Well, the reason that's done is because
+the box
+really kind of pops and it really stands
+out.
+So when my order from soap.com comes to
+the office at the Wharton store.
+And it sits there in the office.
+Anyone coming into the suite is going to
+see
+it, and so that's why you see that very,
+very structured pattern.
+There's observation, and there's also word
+of mouth.
+So keep those two things in mind, because
+when we get to our
+next module, and we're going to talk about
+how to grow the customer base
+and how to find those two, those lead
+users, thinking about leveraging word
+of mouth and leveraging social observation
+is going to be very, very important.
+Now let's move on to principal number
+three.
+So principal number three is sort of a
+further
+look under the hood of principal number
+two.
+So you might of wondered, and you can go
+to the website, doppelganger.com, who your
+celebrity doppelganger is.
+That's whose your celebrity look,
+look-alike.
+if you were to walk down the street, would
+people ping you as George Clooney, Brad
+Pitt, Jessica Biel?
+Who knows?
+So also you might imagine for locations,
+there's the same kind of concept.
+So perhaps Pennnsylvania
+19104 is almost the same as another zip
+code in some other
+place in Texas, and so we wanted to
+examine this idea of
+whether or not similar locations that were
+far away from each other
+would also start to buy things online at
+roughly the same time.
+So the original idea for this actually
+comes from a very,
+very interesting study conducted way back
+in the 1970s by a sociologist.
+And what he did is he
+kind of changed our idea of distance from
+just
+purely physical distance to also thinking
+about social distance.
+What do I mean by social distance?
+So in the original study, Professor Fisher
+showed that if you lived
+in Chicago, there was a higher chance that
+you would meet or randomly
+interact with somebody from Los Angeles,
+which is very, very far from Chicago,
+than there would be that you
+would interact with somebody from
+Springfield, Illinois,
+which is much closer.
+So even though Chicago and Springfield are
+close
+together, in many other ways they're quite
+different.
+The kinds of people that live there, the
+way
+they think, the stuff they like is very
+different.
+Even though Chicago and Los Angeles are
+very very far apart in terms of distance.
+There could be a lot more similarity in
+terms of the tastes that people live
+there.
+They both like big cities.
+They both like to consume certain kinds of
+goods and services.
+So, continuing with our discussion of
+principal number three.
+What we found was very, very interesting.
+When we looked at the sales of
+internet retailer, initially, those sales
+started to
+take off in larger cities and spread, like
+the pattern that I showed you earlier,
+spread through the notion of proximity,
+meaning
+people living close together were either
+telling
+each other about the good or service,
+or perhaps copying each other from seeing
+discarded
+boxes and so on.
+So in the beginning of the sales process,
+those sales
+started to spread out by proximity, from
+one customer to another.
+But what happened over time was very, very
+interesting.
+Sales in those key locations started to
+for,
+for want of a better term, tap out, and
+reach a city state, and then pick up in
+other locations that were further apart
+from each other.
+But yet shared very important
+characteristics.
+So you might have two
+locations, in different parts of the
+United
+States maybe even a thousand miles apart.
+But the basic profile in terms of the
+age, income, occupation, education level
+and so on.
+And also of the retail environment would
+be very similar.
+Those are those doppelganger locations
+that I talked about.
+And because those locations are very
+similar in terms of who
+lives there and the opportunities for
+shopping offline, they tend to migrate
+online at roughly the same rate.
+What we did when we discovered this, in
+the
+beginning through proximity, over time
+more through similarity of locations.
+That we were able to develop something we
+call the long tail plot, again,
+borrowing from our friend Chris Anderson,
+but
+this time, a long tail plot over location.
+So if you look at the slide, what you'll
+see is
+you'll see, on the X axis different
+locations in the United States,
+and the Y axis is the level of sales.
+So, the sales start very, very high in the
+best location and then they taper down to
+the lower
+locations, but those lower locations that
+generate small sales levels
+individually are still very, very
+important for an Ecommerce company.
+That's the key takeaway.
+You can't just survive by hitting the big
+markets.
+You have to also hurt the many smaller
+markets that collectively add
+up to a lot.
+It's the same idea as Chris Anderson's
+long
+tail, but this time, if you think back
+to that previous discussion, this time the
+x-axis
+is about location, as opposed to being
+about products.
+[MUSIC].
+

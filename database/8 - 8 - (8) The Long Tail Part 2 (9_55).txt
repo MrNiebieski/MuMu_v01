@@ -1,0 +1,353 @@
+[MUSIC]
+So, by now we probably all have a good
+idea of the basic concept behind the long
+tail.
+And so what I'd like to do is show it in
+action through
+a piece of very interesting research that
+was done by some colleagues at MIT.
+So let me explain what's going on here.
+the colleagues wanted to try and
+understand or disentangle the supply side
+effective
+the long tail, meaning there's a lot more
+variety available verses the demand side.
+Was explanation
+for the long tail, which is it's now
+easier for you to search and find things
+that you really like that match your
+tastes,
+those products in the orange part of the
+tail.
+So what the study authors did at MIT is
+they got sales
+data for a large retail company that was
+selling through two different channels.
+An internet channel and also through a
+catalog channel.
+And they wanted to see if both of those
+channels had the same mix of sales going
+through.
+Now the prices and
+the products were identical in both of
+those channels, but they wanted to ask the
+question, is there any difference in the
+way
+those channels are delivering the product
+and customers?
+Okay, so let me introduce now a diagram.
+It's actually a pretty cool idea and one
+that you
+may have come across before, but perhaps
+not in this context.
+What I"m showing you here is a diagram
+from which we can compute something
+called the gini coefficient, gini, that's
+what's written at the top of the slide.
+The gini
+coefficient is equal to that area A.
+Divided by the area A plus the area B.
+So let me explain what's going on in this
+diagram.
+It's often a diagram that's used to
+understand
+the equality or inequality of incomes
+within a country.
+But it can also be used to understand the
+equality or
+inequality of sales across various
+products sold by a particular firm.
+So to help us understand this, let's go
+down to point C there on the diagram.
+Point
+C is about half way between zero and 100%
+on the X axis.
+So what that's saying is, if we apply it
+to incomes within a country, if we take
+the people
+with the the lowest income, let's say,in
+the United
+States, all the way up to the people who
+get
+to the 50% level of income, and then we
+draw across from where that C hits the
+curve, the
+dashed line all the way over to the
+right-hand
+side, that looks to me like it's about a
+fifth
+of the way up the Y axis, or 20%.
+So the implication there would be, the
+bottom 50% of people
+in this particular country have about 20%
+of all of the income.
+So this is a country where the income is a
+little bit unevenly distributed.
+Now you can imagine if that Lorenz Curve
+came in
+even closer to the far right point of the
+diagram.
+That would be a country where all of the
+wealth was held by a very,
+very small number of people.
+Similarly, if you thought about products,
+if you pull
+that circle or semi circle in, that would
+be a
+company where almost all of the sales were
+just coming
+from one or two products, that's kind of
+the idea.
+So what they found, the author's of the
+study when they
+looked at this, is that the gini
+coefficient was less concentrated.
+More equal, more egalitarian, for the
+internet channel than
+it was for the catalog channel.
+So the internet channel looked more like a
+long tail sales distribution and
+the catalog channel looked a little bit
+more like the traditional 80 20.
+When the researchers looked at the data in
+more detail, what they found was, that the
+sales
+on the internet channel were more spread
+out, more
+niche products were being sold on the
+internet channel.
+Compared to the catalog channel.
+Now this is very, very interesting because
+if you recall, when I mentioned the
+study at the beginning, the types of
+products sold were identical
+on the two channels and also the prices
+were identical as well.
+So there was no supply side explanation in
+this case.
+So it was not the case that on the
+internet channel there was just
+more variety offered compared to the
+catalog
+channel, both of those two things were
+identical.
+So then the researchers scratched their
+head, and they thought about the other
+explanation which if you're following on,
+you will remember might be a demand
+side explanation.
+So perhaps when you're buying on the
+internet, it's easier for
+you to find those products that are more
+niche and less popular.
+And that's exactly what the authors of
+this study found.
+They found that on the internet channel,
+because there
+are a variety of tools like reviews and
+ability to
+search and so forth, that makes it easier
+for you
+to find stuff that you wouldn't
+necessarily come across otherwise.
+So isn't that very, very interesting?
+The long tail is a supply side story.
+I can offer more variety.
+But it's also a demand side story.
+I'm more able find things that exactly ma,
+match my tastes.
+And what's clever about this study, is the
+office
+controlled the supply side, and they found
+there was more
+long tail like sales on the internet
+compared to
+the catalog and the reason was this demand
+side explanation.
+So one final piece of our discussion of
+the
+long tail now, by now you probably have
+firmly in
+mind that diagram, X axis is products, Y
+axis is
+popularity, the head is red and the tail
+is orange.
+Now, maybe you can think of some other
+thing that you could
+put on the X axis, why does it just have
+to be product.
+So maybe you're thinking of something
+right now.
+Let me throw out one that I am
+particularly interested in,
+because I look a lot at internet sellers
+and how they do.
+You could also imagine that the X axis
+could be not products but locations.
+So maybe if I'm diapers.com, I'm selling
+most of my product in Los Angeles
+and New York City and San Francisco, those
+are the locations in the head.
+But you know what?
+I sell a few things out in some strange
+little town.
+I shouldn't say that.
+Because maybe somebody lives there.
+I sell a few things out in small towns.
+But collectively, all of those small towns
+throughout America add up to a lot.
+So the long tail is also a concept that
+can be applied to geography.
+And I'm just going to show a quick example
+of that from my own research.
+So here on the slide are some of the
+companies
+that we've been talking about as we've
+been going through.
+In this case, the research is based not
+on Diapers.com but on their friends over
+at Netgrocer.com.
+That's a retailer that ships to your house
+various
+grocery products that you might otherwise
+buy in a supermarket.
+So, to understand how the long tail works,
+what we need
+to do here is to think a little bit about
+the notion
+of similarity and differences between
+different
+locations in a large country, be it
+the United States or some other country
+that we may be looking at.
+Now, on the left hand side, we have a
+physical map of the United States, and
+we can compute on that map the distance
+between a place like Chicago and Los
+Angeles.
+It's about 2000 miles.
+We can also compute the distance between
+Chicago and Springfield.
+That distance is about 200 miles.
+So in terms of physical distance, Chicago
+and Los Angeles
+are quite far away but Chicago and
+Springfield are quite close.
+However we think about social distance,
+the type of people
+that live in Chicago might be more similar
+to the type
+of people that live in Los Angeles than to
+the
+type of people that live in a small town
+like Springfield.
+So if we were to look at the sales
+across the United States of a company like
+diapers.com or
+netgrosser.com, what might we find?
+So I did this, again with my colleague
+Jonghei and also another
+friend Sam Wui at, NYU, and what we found
+was very, very interesting.
+We found that the sales of an Internet
+retailer
+also spread out in a long tail fashion
+across geographies.
+In the beginning, the sales take off in
+very big markets,
+like New York, like Chicago, like Los
+Angeles and San Francisco.
+But over time,
+you start to pick up other locations in
+the
+tail that might be quite spread out from
+each
+other in terms of physical distance, but
+the customers
+in those markets share the same kind of
+characteristics.
+So, that's just one idea that I've found
+through my own research that I thought you
+might find interesting, because it relates
+back to
+this very, very key concept, of the long
+tail.
+So I'd just like to wrap up our discussion
+of the long tail
+with a couple of other things that I think
+are really interesting and
+also to give you a recommendation of
+a website that really illustrates this
+point.
+So two critiques of the long tail.
+like any good idea, there are often
+critiques
+out there, I've written there on the
+slide.
+First is this idea of the law of natural
+monopoly.
+Which says that light users like people
+who don't watch movies
+very often let's say, they tend to
+gravitate towards the head,
+so we're still going to need those
+products on the head,
+they're still going to be, in some
+markets, kind of a hit driven
+phenomenon or a hit driven culture.
+The second idea is this idea of double
+jeopardy, actually something
+that my friend Pete has done a bit of
+research on.
+Double jeopardy says.
+Things that are unfamiliar also tend to be
+less well-liked as well.
+So those two ideas run a little bit
+counter to the long
+tail, but I still think the long tail is a
+phenomenal concept.
+If you want to see the long tail in
+action, try this out.
+I've put a link there on the slide that I
+think you'll really kind of enjoy.
+So normally when you do a Google search
+like Google search, search for jeans.
+the most popular things come up first, or
+the
+links Google thinks are going to be most
+relevant to you.
+So most of the time, when you do searches
+on Google, you get exposed to, in
+terms of our language, really only the
+things
+that are in the head, not in the tail.
+Now, a couple of clever entrepreneurs, I
+believe from
+Canada, you can read about them in the
+link,
+came up with a different kind of search
+engine called Million Short.
+So then when you search for whatever it is
+you're looking for, you won't be shown
+results one
+to ten on the first page, you'll be shown
+the results from one million onwards, or
+one thousand onwards.
+You can choose on your own.
+So maybe try that out at home to see what
+kind of variety you get off of that.
+And then finally, I put in another link.
+If you'd like to learn more about
+the concept from the gentleman who really
+created
+it, Chris Anderson.
+There's a link there where you can go and
+listen to that.
+So again, thanks for being part of our
+discussion on the long tail.
+To me, this is one of the most interesting
+concepts in online, offline.
+And I think it's one that will be very
+useful to you guys.
+[MUSIC]
+
